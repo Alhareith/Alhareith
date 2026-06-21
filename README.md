@@ -85,7 +85,6 @@ Desktop application built with Object-Oriented Programming principles for managi
 
 ---
 
-## 📊 GitHub Analytics
 
 ## 📚 Continuous Evolution & Current Learning
 
