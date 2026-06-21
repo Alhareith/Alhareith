@@ -118,6 +118,21 @@ Here is an analytical breakdown of my continuous development, code contributions
 </p>
 
 ---
+## 📊 GitHub Analytics
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Alhareith&show_icons=true&theme=default)
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alhareith&layout=compact)
+
+---
+
+![Streak](https://streak-stats.demolab.com?user=Alhareith)
+
+---
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alhareith)
 
 ## 🌐 Connect & Collaborate
 
@@ -131,3 +146,14 @@ Let’s bridge technical innovations and discuss production architecture pipelin
 ## 🏛️ Engineering Philosophy
 
 > *"Every systematic architecture built today eliminates a dozen production failures tomorrow. Clean, modular code isn't just a preference; it's a structural responsibility to ensure predictability, scalability, and absolute deterministic performance."*
+
+---
+## 📫 Connect With Me
+
+- GitHub: https://github.com/Alhareith
+- LinkedIn: 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_URL)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Profile-FFD21E?style=for-the-badge)](https://huggingface.co/Alhareth)
+- Email: gcatfwg@gmail.com
+
+---
