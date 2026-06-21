@@ -16,3 +16,25 @@ I specialize in architecting structured codebases, analyzing system workflows, a
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
+
+## 🛠️ Tech Stack & Architecture Tooling
+
+### 💻 Core Programming & Enterprise Development
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio_2022-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+### 🤖 AI, NLP & Data Engineering
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-🟢?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Evaluation-FFD21E?style=for-the-badge)
+![Gradio](https://img.shields.io/badge/Gradio-orange?style=for-the-badge)
+
+### 🌐 Infrastructure & Network Engineering
+![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-175BCC?style=for-the-badge&logo=cisco&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker_&_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 📊 System Analysis & Project Management
+![Systems Analysis](https://img.shields.io/badge/System_Analysis_%26_Design-Dark💡?style=for-the-badge)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
