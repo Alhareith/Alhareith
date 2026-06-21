@@ -8,7 +8,7 @@ I specialize in architecting structured codebases, analyzing system workflows, a
 
 ## 🧠 Engineering Stack
 
-## 🧠 Core Technologies
+##  Core Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
@@ -46,6 +46,7 @@ I specialize in architecting structured codebases, analyzing system workflows, a
 ![Databases](https://img.shields.io/badge/Databases-00B894?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![ERD Modeling](https://img.shields.io/badge/ERD%20Modeling-0984E3?style=for-the-badge)
 
+---
 
 ## 🚀 Featured Projects
 
@@ -60,7 +61,7 @@ Lightweight machine learning pipeline for detecting fraudulent transactions usin
 **Tech Stack:** Python · XGBoost · Scikit-learn · Pandas
 **Focus:** Feature engineering · Classification models · Imbalanced data handling
 
-🔗 Repository: https://github.com/your-username/fraud-detection
+🔗 Repository: https://github.com/Alhareith/fraud-detection
 
 ---
 
@@ -73,7 +74,7 @@ Multi-threaded web scraping system for collecting Arabic news and preparing stru
 **Tech Stack:** Python · BeautifulSoup · Requests · NLTK
 **Focus:** Web scraping · Text preprocessing · Dataset building
 
-🔗 Repository: https://github.com/your-username/arabic-news-scraper
+🔗 Repository: https://github.com/Alhareith/arabic-news-scraper
 
 ---
 
@@ -86,6 +87,29 @@ Desktop application built with Object-Oriented Programming principles for managi
 **Tech Stack:** C++ · OOP · SQL concepts
 **Focus:** System design · Business logic modeling
 
-🔗 Repository: https://github.com/your-username/pharmacy-system
+🔗 Repository: https://github.com/Alhareith/pharmacy-system
 
 ---
+
+## 📊 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alhareith\&show_icons=true\&theme=default)
+
+---
+
+## 💡 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alhareith\&layout=compact)
+
+---
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Alhareith)
+
+---
+
+## 📈 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alhareith)
+
