@@ -6,30 +6,45 @@ Driven by a passion for designing reliable software systems, building high-perfo
 
 I specialize in architecting structured codebases, analyzing system workflows, and implementing scalable backend and networking foundations. Dedicated to engineering robust software and AI-driven platforms that solve real-world complexities from the ground up.
 
-## 🛠️ Architecture & Enterprise Tech Stack
+## 🧠 Engineering Stack
 
-### 🎯 Core Engineering & Backend Development
+### Core Engineering & Backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET_Core_/_Web_API-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Python](https://img.shields.io/badge/Python_3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP_%26_Design_Patterns-Dark🟢?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github)
 
-### 🤖 Applied AI, Machine Learning & Data Engineering Pipeline
-![XGBoost](https://img.shields.io/badge/XGBoost-Highly_Optimized-005F4B?style=for-the-badge&logo=xgboost&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Predictive Analytics](https://img.shields.io/badge/Predictive_Modeling-Financial_Fraud_Detection-critical?style=for-the-badge)
+---
+
+### AI / Machine Learning & Data
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat)
+![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat)
+![Data Processing](https://img.shields.io/badge/Data%20Processing-2F81F7?style=flat)
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-3C873A?style=flat)
 ![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-Imbalanced_Data_Handling-blue?style=for-the-badge)
-![Web Scraping](https://img.shields.io/badge/Advanced_Web_Scraping-BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP_&_Text_Analytics-NLTK_/_Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Model Deployment](https://img.shields.io/badge/Model_Deployment-Gradio_/_HF_Spaces-blue?style=for-the-badge)
 
-### 🌐 DevOps, Cloud & Network Infrastructure
-![Cisco](https://img.shields.io/badge/Cisco_Infrastructure-Routing_&_Switching-175BCC?style=for-the-badge&logo=cisco&logoColor=white)
-![Network Protocols](https://img.shields.io/badge/Protocols-OSPF_/_BGP_/_HSRP_/_VLANs-005F4B?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Containerization-Docker_&_Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Version_Control-Git_&_Advanced_GitHub-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 📊 System Analysis & Enterprise Architecture (Saudi Market Ready)
-![Systems Analysis](https://img.shields.io/badge/System_Analysis_%26_Design-BPMN_/_UML_/_ERD-critical?style=for-the-badge)
-![Agile](https://img.shields.io/badge/Project_Management-Agile_/_Scrum-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
-![SDLC](https://img.shields.io/badge/SDLC-Requirements_Engineering-success?style=for-the-badge)
+
+---
+
+### DevOps & Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux)
+![Networking](https://img.shields.io/badge/Networking-FF6B6B?style=flat)
+
+---
+
+### Systems & Architecture
+
+![System Design](https://img.shields.io/badge/System%20Design-6C5CE7?style=flat)
+![UML](https://img.shields.io/badge/UML-8E44AD?style=flat)
+![Databases](https://img.shields.io/badge/Databases-00B894?style=flat)
+![ERD Modeling](https://img.shields.io/badge/ERD-0984E3?style=flat)
+
+
