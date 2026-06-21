@@ -6,35 +6,31 @@ Driven by a passion for designing reliable software systems, building high-perfo
 
 I specialize in architecting structured codebases, analyzing system workflows, and implementing scalable backend and networking foundations. Dedicated to engineering robust software and AI-driven platforms that solve real-world complexities from the ground up.
 
-## 💻 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
+## 🛠️ Architecture & Enterprise Tech Stack
 
-## 🛠️ Tech Stack & Architecture Tooling
-
-### 💻 Core Programming & Enterprise Development
+### 🎯 Core Engineering & Backend Development
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio_2022-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core_/_Web_API-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Python](https://img.shields.io/badge/Python_3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP_%26_Design_Patterns-Dark🟢?style=for-the-badge)
 
-### 🤖 AI, NLP & Data Engineering
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-🟢?style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Evaluation-FFD21E?style=for-the-badge)
-![Gradio](https://img.shields.io/badge/Gradio-orange?style=for-the-badge)
+### 🤖 Applied AI, Machine Learning & Data Engineering Pipeline
+![XGBoost](https://img.shields.io/badge/XGBoost-Highly_Optimized-005F4B?style=for-the-badge&logo=xgboost&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Predictive Analytics](https://img.shields.io/badge/Predictive_Modeling-Financial_Fraud_Detection-critical?style=for-the-badge)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-Imbalanced_Data_Handling-blue?style=for-the-badge)
+![Web Scraping](https://img.shields.io/badge/Advanced_Web_Scraping-BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP_&_Text_Analytics-NLTK_/_Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Model Deployment](https://img.shields.io/badge/Model_Deployment-Gradio_/_HF_Spaces-blue?style=for-the-badge)
 
-### 🌐 Infrastructure & Network Engineering
-![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-175BCC?style=for-the-badge&logo=cisco&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker_&_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🌐 DevOps, Cloud & Network Infrastructure
+![Cisco](https://img.shields.io/badge/Cisco_Infrastructure-Routing_&_Switching-175BCC?style=for-the-badge&logo=cisco&logoColor=white)
+![Network Protocols](https://img.shields.io/badge/Protocols-OSPF_/_BGP_/_HSRP_/_VLANs-005F4B?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Containerization-Docker_&_Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Version_Control-Git_&_Advanced_GitHub-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 📊 System Analysis & Project Management
-![Systems Analysis](https://img.shields.io/badge/System_Analysis_%26_Design-Dark💡?style=for-the-badge)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
+### 📊 System Analysis & Enterprise Architecture (Saudi Market Ready)
+![Systems Analysis](https://img.shields.io/badge/System_Analysis_%26_Design-BPMN_/_UML_/_ERD-critical?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Project_Management-Agile_/_Scrum-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
+![SDLC](https://img.shields.io/badge/SDLC-Requirements_Engineering-success?style=for-the-badge)
