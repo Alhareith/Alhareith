@@ -51,7 +51,7 @@ I specialize in architecting structured codebases, analyzing system workflows, a
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ---
 
