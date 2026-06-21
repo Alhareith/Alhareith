@@ -54,8 +54,6 @@ I specialize in architecting structured codebases, analyzing system workflows, a
 
 ### 🧠 Fraud Detection System
 
-![ML](https://img.shields.io/badge/Machine%20Learning-Fraud%20Detection-blue?style=for-the-badge)
-
 Lightweight machine learning pipeline for detecting fraudulent transactions using imbalanced financial datasets.
 
 **Tech Stack:** Python · XGBoost · Scikit-learn · Pandas
@@ -66,8 +64,6 @@ Lightweight machine learning pipeline for detecting fraudulent transactions usin
 ---
 
 ### 📰 Arabic News Scraper & NLP Pipeline
-
-![NLP](https://img.shields.io/badge/NLP-Arabic%20Text%20Processing-green?style=for-the-badge)
 
 Multi-threaded web scraping system for collecting Arabic news and preparing structured datasets for NLP tasks.
 
@@ -80,8 +76,6 @@ Multi-threaded web scraping system for collecting Arabic news and preparing stru
 
 ### 💊 Pharmacy Management System
 
-![System](https://img.shields.io/badge/System-OOP%20Design-purple?style=for-the-badge)
-
 Desktop application built with Object-Oriented Programming principles for managing pharmacy workflows and operations.
 
 **Tech Stack:** C++ · OOP · SQL concepts
@@ -92,29 +86,6 @@ Desktop application built with Object-Oriented Programming principles for managi
 ---
 
 ## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alhareith\&show_icons=true\&theme=default)
-
----
-
-## 💡 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alhareith\&layout=compact)
-
----
-
-## 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Alhareith)
-
----
-
-## 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alhareith)
-
-
----
 
 ## 📚 Continuous Evolution & Current Learning
 
