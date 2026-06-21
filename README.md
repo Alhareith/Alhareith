@@ -113,3 +113,48 @@ Desktop application built with Object-Oriented Programming principles for managi
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alhareith)
 
+
+---
+
+## 📚 Continuous Evolution & Current Learning
+
+To maintain architectural edge and align with modern cloud and data trends, I am currently scaling my expertise in:
+- 🐳 **Container Orchestration & Microservices:** Deepening my practical implementation of **Docker & Docker Compose** through open-source codebases (e.g., Planka environment setups) to achieve smooth dependency-free deployments.
+- ⚡ **Advanced Backend Scaling:** Developing production-grade RESTful APIs using **.NET Core Web API** to complement my C# foundations.
+- 🏗️ **Agile Project Delivery:** Refining my requirements engineering and project blueprinting workflows utilizing **ClickUp** boards for optimal task tracking.
+
+---
+
+## 📊 Automated Engineering Metrics & Stats
+
+Here is an analytical breakdown of my continuous development, code contributions, and technical activities tracked dynamically across my repositories:
+
+### ⚡ GitHub Profile Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alhareith&show_icons=true&theme=tokyonight&count_private=true" alt="Alhareith's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alhareith&layout=compact&theme=tokyonight&langs_count=6" alt="Most Used Languages" width="48%" />
+</p>
+
+### 🔥 Contribution Streak & Developer Activity
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alhareith&theme=tokyonight" alt="Alhareith's Contribution Streak" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alhareith&theme=tokyonight" alt="Alhareith's Contribution Activity Graph" width="100%" />
+</p>
+
+---
+
+## 🌐 Connect & Collaborate
+
+Let’s bridge technical innovations and discuss production architecture pipelines. You can find me across these engineering platforms:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_URL)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Profile-FFD21E?style=for-the-badge)](https://huggingface.co/Alhareth)
+
+---
+
+## 🏛️ Engineering Philosophy
+
+> *"Every systematic architecture built today eliminates a dozen production failures tomorrow. Clean, modular code isn't just a preference; it's a structural responsibility to ensure predictability, scalability, and absolute deterministic performance."*
