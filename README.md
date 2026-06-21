@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:0D1117&height=140&section=header"/>
-# 👋 Hi, I'm Alhareth Al-Dahiya
+ # 👋 Hi, I'm Alhareth Al-Dahiya
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Information+Technology+Student;Software+Engineering+Enthusiast;Machine+Learning+Learner;Always+Learning+New+Technologies)
 ### Software Engineer | Machine Learning & NLP | Building AI-powered systems  
