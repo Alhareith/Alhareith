@@ -118,30 +118,7 @@ Here is an analytical breakdown of my continuous development, code contributions
 </p>
 
 ---
-## 📊 GitHub Analytics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Alhareith&show_icons=true&theme=default)
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alhareith&layout=compact)
-
----
-
-![Streak](https://streak-stats.demolab.com?user=Alhareith)
-
----
-
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alhareith)
-
-## 🌐 Connect & Collaborate
-
-Let’s bridge technical innovations and discuss production architecture pipelines. You can find me across these engineering platforms:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_URL)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Profile-FFD21E?style=for-the-badge)](https://huggingface.co/Alhareth)
-
----
 
 ## 🏛️ Engineering Philosophy
 
