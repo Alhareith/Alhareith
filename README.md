@@ -6,7 +6,6 @@ Driven by a passion for designing reliable software systems, building high-perfo
 
 I specialize in architecting structured codebases, analyzing system workflows, and implementing scalable backend and networking foundations. Dedicated to engineering robust software and AI-driven platforms that solve real-world complexities from the ground up.
 
-
 ## 🛠️ Architecture & Enterprise Tech Stack
 
 ### 🎯 Core Engineering & Backend Development
