@@ -47,33 +47,38 @@ I specialize in architecting structured codebases, analyzing system workflows, a
 ![ERD Modeling](https://img.shields.io/badge/ERD%20Modeling-0984E3?style=for-the-badge)
 
 
-## 🚀 Featured Projects
+## 🚀 Featured Production-Ready Projects
 
-### 📰 Arabic News Classification
+### 1️⃣ AI-Powered Financial Fraud Detection System
+> **Category:** Financial Technology (FinTech) & Cyber Security
 
-A machine learning pipeline for scraping Arabic news, preprocessing text, extracting features, and classifying articles using NLP techniques.
+A highly optimized Machine Learning system engineered to detect fraudulent financial transactions in real-time. Built using real-world transactional datasets, this project addresses the critical challenge of highly imbalanced financial data.
 
----
-
-### 💊 Pharmacy Management System
-
-Desktop application built with C++ using Object-Oriented Programming principles to manage pharmacy operations.
-
----
-
-### 🌐 Social Productivity Website
-
-A web application designed to improve user productivity and task management with a clean interface.
+*   **The Architecture & Engineering:** Implemented advanced **Feature Engineering** pipelines to handle severe data imbalance, ensuring the model captures subtle anomalous behavior without raising false alarms for legitimate users.
+*   **Tech Stack:** `Python` | `XGBoost` | `Scikit-Learn` | `Pandas` | `Predictive Analytics`
+*   **Key Results:** Achieved high precision and recall scores using the **XGBoost** algorithm, demonstrating enterprise-grade capacity to protect digital payment ecosystems from modern fraud vectors.
+*   **Links:** [[📁 Repository](https://github.com/your-username/fraud-detection)] | [[📊 Model & Dataset Details](https://github.com/your-username/fraud-detection#metrics)]
 
 ---
 
-### 📊 Fraud Detection System
+### 2️⃣ Advanced Multi-Threaded Arabic News Analytics Scraper
+> **Category:** Data Engineering & Natural Language Processing (NLP)
 
-Machine learning project focused on detecting fraudulent activity using data preprocessing, feature engineering, and classification models.
+An enterprise-grade web scraping and text analytics engine designed to harvest and analyze historical and real-time Arabic news articles from major publications (e.g., Al-Ahram, Wikinews).
+
+*   **The Architecture & Engineering:** Built with an asynchronous, **Multi-threaded routing architecture** to bypass standard crawler bottlenecks and extract large-scale datasets (ranging from hundreds to thousands of articles) efficiently without resource exhaustion.
+*   **Tech Stack:** `Python` | `BeautifulSoup` | `Requests` | `Multi-Threading` | `NLTK`
+*   **Key Results:** Successfully automated target-specific extraction (isolating actual article bodies from category indexes) and established an NLP pipeline ready for text classification and sentiment analysis.
+*   **Links:** [[📁 Code Base](https://github.com/your-username/arabic-news-scraper)]
 
 ---
 
-### 🏥 Hospital Reception Database
+### 3️⃣ Smart Pharmacy Locator & Workflow Platform (Graduation Project)
+> **Category:** Enterprise Systems & Healthcare Logistics
 
-Database design project including ERD modeling, normalization, and SQL implementation for managing hospital appointments and reception workflow.
+An end-to-end software architecture engineered to streamline medicine sourcing, allowing users to locate critical pharmaceutical items instantly based on real-time geolocation proximity and pharmacy workflows.
 
+*   **The Architecture & Engineering:** Designed following strict **Software Development Life Cycle (SDLC)** methodologies. The planning phase encompasses comprehensive Systems Analysis, including detailed **BPMN** process flows, **UML** architecture diagrams, and robust **ERD** database mapping.
+*   **Tech Stack & Tooling:** `C#` | `.NET Core Web API` | `System Analysis & Design` | `ClickUp (Agile/Scrum)`
+*   **Key Results:** Transformed raw healthcare logistics requirements into a highly scalable, blueprinted system architecture ready for full-scale cross-platform deployment.
+*   **Links:** [[📋 Architecture Specs & Board](https://github.com/your-username/pharmacy-locator)]
