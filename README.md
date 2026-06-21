@@ -7,44 +7,39 @@ Driven by a passion for designing reliable software systems, building high-perfo
 I specialize in architecting structured codebases, analyzing system workflows, and implementing scalable backend and networking foundations. Dedicated to engineering robust software and AI-driven platforms that solve real-world complexities from the ground up.
 
 ## 🧠 Engineering Stack
+## 🧠 Core Technologies
 
-### Core Engineering & Backend
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP_%26_Design_Patterns-Dark🟢?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP%20%26%20Design%20Patterns-1E90FF?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
 ---
 
-### AI / Machine Learning & Data
+## 🤖 AI / Machine Learning
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat)
-![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat)
-![Data Processing](https://img.shields.io/badge/Data%20Processing-2F81F7?style=flat)
-![Web Scraping](https://img.shields.io/badge/Web%20Scraping-3C873A?style=flat)
-![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-Imbalanced_Data_Handling-blue?style=for-the-badge)
-![Model Deployment](https://img.shields.io/badge/Model_Deployment-Gradio_/_HF_Spaces-blue?style=for-the-badge)
-
-
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge)
+![Data Processing](https://img.shields.io/badge/Data%20Processing-2F81F7?style=for-the-badge)
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-3C873A?style=for-the-badge)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-FFB400?style=for-the-badge)
+![Model Deployment](https://img.shields.io/badge/Deployment-Gradio%20%7C%20HF%20Spaces-FF6B6B?style=for-the-badge)
 
 ---
 
-### DevOps & Infrastructure
+## ☁️ DevOps & Infrastructure
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux)
-![Networking](https://img.shields.io/badge/Networking-FF6B6B?style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Networking](https://img.shields.io/badge/Networking-1E90FF?style=for-the-badge)
 
 ---
 
-### Systems & Architecture
+## 🏛️ Systems & Architecture
 
-![System Design](https://img.shields.io/badge/System%20Design-6C5CE7?style=flat)
-![UML](https://img.shields.io/badge/UML-8E44AD?style=flat)
-![Databases](https://img.shields.io/badge/Databases-00B894?style=flat)
-![ERD Modeling](https://img.shields.io/badge/ERD-0984E3?style=flat)
-
+![System Design](https://img.shields.io/badge/System%20Design-6C5CE7?style=for-the-badge)
+![UML](https://img.shields.io/badge/UML-8E44AD?style=for-the-badge)
+![Databases](https://img.shields.io/badge/Databases-00B894?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![ERD Modeling](https://img.shields.io/badge/ERD%20Modeling-0984E3?style=for-the-badge)
 
