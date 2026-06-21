@@ -46,3 +46,34 @@ I specialize in architecting structured codebases, analyzing system workflows, a
 ![Databases](https://img.shields.io/badge/Databases-00B894?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![ERD Modeling](https://img.shields.io/badge/ERD%20Modeling-0984E3?style=for-the-badge)
 
+
+## 🚀 Featured Projects
+
+### 📰 Arabic News Classification
+
+A machine learning pipeline for scraping Arabic news, preprocessing text, extracting features, and classifying articles using NLP techniques.
+
+---
+
+### 💊 Pharmacy Management System
+
+Desktop application built with C++ using Object-Oriented Programming principles to manage pharmacy operations.
+
+---
+
+### 🌐 Social Productivity Website
+
+A web application designed to improve user productivity and task management with a clean interface.
+
+---
+
+### 📊 Fraud Detection System
+
+Machine learning project focused on detecting fraudulent activity using data preprocessing, feature engineering, and classification models.
+
+---
+
+### 🏥 Hospital Reception Database
+
+Database design project including ERD modeling, normalization, and SQL implementation for managing hospital appointments and reception workflow.
+
