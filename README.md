@@ -1,135 +1,148 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:0D1117&height=140&section=header"/>
+<!-- HEADER BANNER (Wave Animation) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:0D1117&height=200&section=header&text=Alhareth%20Al-Dahiya&fontSize=50&fontColor=FFFFFF&animation=fadeIn"/>
+</p>
 
- # 👋 Hi, I'm Alhareth Al-Dahiya
+<!-- SOCIAL & VISITOR BADGES -->
+<p align="center">
+  <a href="https://github.com/Alhareith"><img src="https://img.shields.io/github/followers/Alhareith?label=Follow&style=social" alt="GitHub followers"/></a>
+  <a href="https://github.com/Alhareith"><img src="https://img.shields.io/github/stars/Alhareith?style=social" alt="GitHub stars"/></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Alhareith.Alhareith" alt="visitor badge"/>
+  <a href="mailto:gcatfwg@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Information+Technology+Student;Software+Engineering+Enthusiast;Machine+Learning+Learner;Always+Learning+New+Technologies)
-### Software Engineer | Machine Learning & NLP | Building AI-powered systems  
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Information+Technology+Student;Software+Engineering+Enthusiast;Machine+Learning+Learner;Building+AI-powered+Systems" alt="Typing SVG"/>
+</p>
 
-Driven by a passion for designing reliable software systems, building high-performance data pipelines, and bridging the gap between clean code implementation and intelligent AI solutions. 
+---
 
-I specialize in architecting structured codebases, analyzing system workflows, and implementing scalable backend and networking foundations. Dedicated to engineering robust software and AI-driven platforms that solve real-world complexities from the ground up.
+## 📖 Table of Contents
+- [👋 About Me](#-about-me)
+- [🧠 Engineering Stack](#-engineering-stack)
+- [🚀 Featured Projects](#-featured-projects)
+- [📚 Continuous Evolution](#-continuous-evolution)
+- [📊 GitHub Analytics](#-github-analytics)
+- [🏛️ Engineering Philosophy](#️-engineering-philosophy)
+- [📫 Connect with Me](#-connect-with-me)
+- [🔝 Back to Top](#-back-to-top)
+
+---
+
+## 👋 About Me
+Hello, I'm **Alhareth Al-Dahiya** – a Software Engineer passionate about designing reliable systems, building high-performance data pipelines, and bridging clean code with intelligent AI solutions.
+
+I specialize in **architecting structured codebases**, **analyzing system workflows**, and implementing **scalable backends** and networking foundations. My goal is to engineer robust software and AI-driven platforms that solve real-world complexities from the ground up.
+
+---
 
 ## 🧠 Engineering Stack
 
-##  Core Technologies
+> *Organized into clear domains. Click on any section to expand for more details.*
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP%20%26%20Design%20Patterns-1E90FF?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-
----
-
-## 🤖 AI / Machine Learning
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge)
-![Data Processing](https://img.shields.io/badge/Data%20Processing-2F81F7?style=for-the-badge)
-![Web Scraping](https://img.shields.io/badge/Web%20Scraping-3C873A?style=for-the-badge)
-![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-FFB400?style=for-the-badge)
-![Model Deployment](https://img.shields.io/badge/Deployment-Gradio%20%7C%20HF%20Spaces-FF6B6B?style=for-the-badge)
-
----
-
-## ☁️ DevOps & Infrastructure
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Networking](https://img.shields.io/badge/Networking-1E90FF?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github)
-
-
----
-
-## 🏛️ Systems & Architecture
-
-![System Design](https://img.shields.io/badge/System%20Design-6C5CE7?style=for-the-badge)
-![UML](https://img.shields.io/badge/UML-8E44AD?style=for-the-badge)
-![Databases](https://img.shields.io/badge/Databases-00B894?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![ERD Modeling](https://img.shields.io/badge/ERD%20Modeling-0984E3?style=for-the-badge)
-
----
-
-## Featured Projects
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <strong>💻 Core Languages</strong><br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    </td>
+    <td align="center" width="33%">
+      <strong>🤖 AI & Machine Learning</strong><br><br>
+      <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/badge/Data%20Processing-2F81F7?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/badge/Deployment-Gradio%20%7C%20HF%20Spaces-FF6B6B?style=for-the-badge" />
+    </td>
+    <td align="center" width="33%">
+      <strong>☁️ DevOps & Infrastructure</strong><br><br>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/Networking-1E90FF?style=for-the-badge" /><br>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <strong>🏛️ Systems & Architecture</strong><br><br>
+      <img src="https://img.shields.io/badge/System%20Design-6C5CE7?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/UML-8E44AD?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Databases-00B894?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/ERD%20Modeling-0984E3?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/OOP%20%26%20Patterns-1E90FF?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🧠 Fraud Detection System
+## 🚀 Featured Projects
 
-Lightweight machine learning pipeline for detecting fraudulent transactions using imbalanced financial datasets.
+<details>
+  <summary><strong>📦 Click to expand full project details</strong></summary>
+  <br>
 
-**Tech Stack:** Python · XGBoost · Scikit-learn · Pandas
-**Focus:** Feature engineering · Classification models · Imbalanced data handling
+| Project | Description | Tech Stack | Repo |
+|---------|-------------|------------|------|
+| **🧠 Fraud Detection** | Lightweight ML pipeline for detecting fraudulent transactions using imbalanced financial datasets. | Python, XGBoost, Scikit-learn, Pandas | [Link](https://github.com/Alhareith/fraud-detection) |
+| **📰 Arabic News Scraper** | Multi-threaded scraper for collecting Arabic news and preparing structured datasets for NLP tasks. | Python, BeautifulSoup, Requests, NLTK | [Link](https://github.com/Alhareith/arabic-news-scraper) |
+| **💊 Pharmacy Management** | Desktop app using OOP principles for managing pharmacy workflows and operations. | C++, OOP, SQL concepts | [Link](https://github.com/Alhareith/pharmacy-system) |
 
-🔗 Repository: https://github.com/Alhareith/fraud-detection
-
----
-
-### 📰 Arabic News Scraper & NLP Pipeline
-
-Multi-threaded web scraping system for collecting Arabic news and preparing structured datasets for NLP tasks.
-
-**Tech Stack:** Python · BeautifulSoup · Requests · NLTK
-**Focus:** Web scraping · Text preprocessing · Dataset building
-
-🔗 Repository: https://github.com/Alhareith/arabic-news-scraper
+</details>
 
 ---
 
-### 💊 Pharmacy Management System
+## 📚 Continuous Evolution
+To maintain my architectural edge and align with modern cloud/data trends, I'm currently scaling my expertise in:
 
-Desktop application built with Object-Oriented Programming principles for managing pharmacy workflows and operations.
-
-**Tech Stack:** C++ · OOP · SQL concepts
-**Focus:** System design · Business logic modeling
-
-🔗 Repository: https://github.com/Alhareith/pharmacy-system
+- 🐳 **Container Orchestration** – Deepening Docker & Docker Compose implementation through open-source codebases (e.g., Planka) for smooth dependency-free deployments.
+- ⚡ **Advanced Backend Scaling** – Developing production-grade RESTful APIs using **.NET Core Web API** to complement my C# foundations.
+- 🏗️ **Agile Project Delivery** – Refining requirements engineering and project blueprinting using **ClickUp** boards for optimal task tracking.
 
 ---
 
+## 📊 GitHub Analytics
 
-## 📚 Continuous Evolution & Current Learning
-
-To maintain architectural edge and align with modern cloud and data trends, I am currently scaling my expertise in:
-- 🐳 **Container Orchestration & Microservices:** Deepening my practical implementation of **Docker & Docker Compose** through open-source codebases (e.g., Planka environment setups) to achieve smooth dependency-free deployments.
-- ⚡ **Advanced Backend Scaling:** Developing production-grade RESTful APIs using **.NET Core Web API** to complement my C# foundations.
-- 🏗️ **Agile Project Delivery:** Refining my requirements engineering and project blueprinting workflows utilizing **ClickUp** boards for optimal task tracking.
-
----
-
-## 📊 Automated Engineering Metrics & Stats
-
-Here is an analytical breakdown of my continuous development, code contributions, and technical activities tracked dynamically across my repositories:
-
-### ⚡ GitHub Profile Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alhareith&show_icons=true&theme=tokyonight&count_private=true" alt="Alhareith's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alhareith&layout=compact&theme=tokyonight&langs_count=6" alt="Most Used Languages" width="48%" />
-</p>
-
-### 🔥 Contribution Streak & Developer Activity
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alhareith&theme=tokyonight" alt="Alhareith's Contribution Streak" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alhareith&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alhareith&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alhareith&theme=tokyonight" alt="Alhareith's Contribution Activity Graph" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alhareith&theme=tokyonight" alt="Streak Stats" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alhareith&theme=tokyonight" alt="Activity Graph" width="100%" />
 </p>
 
 ---
 
 ## 🏛️ Engineering Philosophy
-
-> *"Every systematic architecture built today eliminates a dozen production failures tomorrow. Clean, modular code isn't just a preference; it's a structural responsibility to ensure predictability, scalability, and absolute deterministic performance."*
-
----
-## 📫 Connect With Me
-
-- GitHub: https://github.com/Alhareith
-- LinkedIn: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_URL)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Profile-FFD21E?style=for-the-badge)](https://huggingface.co/Alhareth)
-- Email: gcatfwg@gmail.com
+> *"Every systematic architecture built today eliminates a dozen production failures tomorrow. Clean, modular code isn't just a preference; it's a structural responsibility to ensure predictability, scalability, and deterministic performance."*
 
 ---
+
+## 📫 Connect with Me
+- **GitHub:** [Alhareith](https://github.com/Alhareith)
+- **LinkedIn:** [Add your URL here](https://linkedin.com/in/YOUR_LINKEDIN_URL) *(Replace this)*
+- **Hugging Face:** [Alhareth](https://huggingface.co/Alhareth)
+- **Email:** gcatfwg@gmail.com
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://huggingface.co/Alhareth"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Profile-FFD21E?style=for-the-badge" alt="Hugging Face"/></a>
+</p>
+
+---
+
+## 🔝 Back to Top
+[↑ Back to Top](#-table-of-contents)
+
+<!-- FOOTER WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2F81F7&height=100&section=footer"/>
+</p>
