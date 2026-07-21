@@ -130,8 +130,9 @@ To maintain my architectural edge and align with modern cloud/data trends, I'm c
 - **LinkedIn**:  <a href="https://www.linkedin.com/in/%D8%A7%D9%84%D8%AD%D8%A7%D8%B1%D8%AB-%D8%A7%D9%84%D8%AF%D8%A7%D9%87%D9%8A%D8%A9-95b4a831a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   
 - **Hugging Face:** <a
-href="https://huggingface.co/Alhareth7790"><img <a href="https://huggingface.co/YOUR_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face Profile"/>
+href="https://huggingface.co/Alhareth7790">
+<img
+src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face Profile"/>
 </a>
 
 - **Email:** alhareithaldahia@gmail.com
