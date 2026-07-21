@@ -8,7 +8,7 @@
   <a href="https://github.com/Alhareith"><img src="https://img.shields.io/github/followers/Alhareith?label=Follow&style=social" alt="GitHub followers"/></a>
   <a href="https://github.com/Alhareith"><img src="https://img.shields.io/github/stars/Alhareith?style=social" alt="GitHub stars"/></a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Alhareith.Alhareith" alt="visitor badge"/>
-  <a href="mailto:gcatfwg@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:alhareithaldahia@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <!-- TYPING ANIMATION -->
