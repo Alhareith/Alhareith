@@ -127,8 +127,7 @@ To maintain my architectural edge and align with modern cloud/data trends, I'm c
 ---
 
 ## 📫 Connect with Me
-- **GitHub:** [Alhareith](https://github.com/Alhareith)
-- **LinkedIn:** [Add your URL here](https://linkedin.com/in/YOUR_LINKEDIN_URL) *(Replace this)*
+**LinkedIn**:in/الحارث-الداهية-95b4a831a
 - **Hugging Face:** [Alhareth](https://huggingface.co/Alhareth)
 - **Email:** gcatfwg@gmail.com
 
