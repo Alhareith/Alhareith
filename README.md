@@ -131,8 +131,9 @@ To maintain my architectural edge and align with modern cloud/data trends, I'm c
   
 - **Hugging Face:** <a
 href="https://huggingface.co/Alhareth7790">
-<img
-src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face Profile"/>
+  <img src="https://img.shields.io/badge/🤗%20Visit%20My-Hugging%20Face-black?style=flat&logo=huggingface&logoColor=FFD21E&labelColor=111" alt="Hugging Face Profile"/>
+</a>
+
 </a>
 
 - **Email:** alhareithaldahia@gmail.com
