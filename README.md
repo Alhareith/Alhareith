@@ -159,7 +159,7 @@ graph TB
         A7[Databases]
         A8[Git & Workflows]
     end
-    
+
     subgraph B["👁️ AI & Computer Vision"]
         B1[Digital Image Processing]
         B2[Computer Vision]
@@ -171,7 +171,7 @@ graph TB
         B8[Model Training]
         B9[Evaluation & Error Analysis]
     end
-    
+
     subgraph C["⚙️ System Foundations"]
         C1[Operating Systems]
         C2[Computer Networks]
@@ -182,7 +182,7 @@ graph TB
         C7[Reliability]
         C8[Engineering Trade-offs]
     end
-    
+
     A ---|"Interconnect"| B
     B ---|"Interconnect"| C
     C ---|"Interconnect"| A
@@ -254,7 +254,7 @@ flowchart TD
     CROP --> RECOG["🔤 Text Recognition<br/>CRNN / TrOCR"]
     RECOG --> TEXT["📝 Tibetan Text"]
     TEXT --> EVAL["📊 Evaluation & Analysis"]
-    
+
     style DOC fill:#0d1117,stroke:#58a6ff,stroke-width:3px,color:#fff
     style LAYOUT fill:#161b22,stroke:#238636,stroke-width:2px
     style RECOG fill:#161b22,stroke:#a371f7,stroke-width:2px
@@ -294,7 +294,7 @@ flowchart LR
     PAPER --> SIG
     HEAD --> SIG
     SIG --> HUMAN["👨‍🏫 Human Review"]
-    
+
     style CAM fill:#0d1117,stroke:#58a6ff,stroke-width:3px
     style HUMAN fill:#161b22,stroke:#238636,stroke-width:3px
     style SIG fill:#161b22,stroke:#d29922,stroke-width:2px
@@ -367,13 +367,13 @@ flowchart TB
         K5[Tools]
         K6[Projects]
     end
-    
+
     KNOWLEDGE --> LABS["🧪 Interactive Labs"]
     LABS --> EXP["🔬 Experiments"]
     EXP --> AI["🤖 AI Assistance"]
     AI --> PATH["🎯 Learning Path"]
     PATH -.->|Continuous| KNOWLEDGE
-    
+
     style KNOWLEDGE fill:#0d1117,stroke:#58a6ff,stroke-width:2px
     style PATH fill:#161b22,stroke:#238636,stroke-width:2px
 ```
@@ -437,29 +437,29 @@ flowchart TB
     ENGINEERING["🏛️ ENGINEERING"] --> SE["💻 SOFTWARE ENGINEERING"]
     ENGINEERING --> AICV["🧠 AI / CV"]
     ENGINEERING --> SYS["⚙️ SYSTEMS"]
-    
+
     SE --> SE1[Requirements]
     SE --> SE2[Architecture]
     SE --> SE3[APIs]
     SE --> SE4[Databases]
     SE --> SE5[Testing]
-    
+
     AICV --> AI1[Data Pipelines]
     AICV --> AI2[Image Processing]
     AICV --> AI3[OCR]
     AICV --> AI4[Detection]
     AICV --> AI5[Evaluation]
-    
+
     SYS --> S1[Networking]
     SYS --> S2[Operating Systems]
     SYS --> S3[Performance]
     SYS --> S4[Reliability]
     SYS --> S5[Deployment]
-    
+
     SE1 & SE2 & SE3 & SE4 & SE5 --> COMPLETE["🎯 COMPLETE SYSTEMS"]
     AI1 & AI2 & AI3 & AI4 & AI5 --> COMPLETE
     S1 & S2 & S3 & S4 & S5 --> COMPLETE
-    
+
     style ENGINEERING fill:#0d1117,stroke:#58a6ff,stroke-width:4px,color:#fff
     style COMPLETE fill:#161b22,stroke:#238636,stroke-width:4px,color:#fff
     style SE fill:#21262d,stroke:#a371f7,stroke-width:2px
@@ -537,7 +537,7 @@ flowchart TB
         SE4 --> SE5[Testing & Evaluation]
         SE5 --> SE6[Deployment & Ops]
     end
-    
+
     subgraph AI["🧠 ARTIFICIAL INTELLIGENCE"]
         direction TB
         AI1[Data] --> AI2[Computer Vision]
@@ -546,7 +546,7 @@ flowchart TB
         AI4 --> AI5[Evaluation & Errors]
         AI5 --> AI6[Improvement]
     end
-    
+
     SE ~~~ AI
 ```
 
@@ -628,7 +628,7 @@ flowchart LR
     F --> G["🔍 Analyze failures instead of hiding them"]
     G --> H["📄 Document architectural decisions"]
     H --> I["🚀 Turn knowledge into working systems"]
-    
+
     style A fill:#0d1117,stroke:#58a6ff,stroke-width:2px
     style I fill:#161b22,stroke:#238636,stroke-width:3px
 ```
@@ -671,7 +671,7 @@ flowchart TB
     C --> D["👁️ Computer Vision"]
     D --> E["📄 Document AI"]
     E --> F["🔬 Research & Experimentation"]
-    
+
     style A fill:#0d1117,stroke:#58a6ff,stroke-width:3px
     style F fill:#161b22,stroke:#238636,stroke-width:3px
 ```
