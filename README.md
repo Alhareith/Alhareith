@@ -1,419 +1,394 @@
-<!-- =========================================================
-     ALHARETH AL-DAHIYA — GITHUB PROFILE README
-     Midnight Research × Editorial Engineering
-========================================================== --><!-- HERO --><p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:111827,100:0D1117&height=230&section=header&text=ALHARETH%20AL-D‌AHIYA&fontSize=44&fontColor=F8FAFC&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%E2%80%A2%20AI%20%E2%80%A2%20COMPUTER%20VISION&descSize=16&descAlignY=60"
-    width="100%"
-    alt="Alhareth Al-Dahiya"
-  />
-</p><p align="center">
-  <strong>Information Technology Student · Building toward Software & AI Engineering</strong>
-</p><p align="center">
-  <em>Understand the system → Design it clearly → Build it carefully → Measure → Improve.</em>
-</p><br><p align="center">
-  <a href="https://github.com/Alhareith">
-    <img src="https://img.shields.io/github/followers/Alhareith?style=flat-square&logo=github&label=Followers&color=2F81F7" alt="GitHub Followers"/>
-  </a>
-  <a href="mailto:alhareithaldahia@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://huggingface.co/Alhareth7790">
-    <img src="https://img.shields.io/badge/Hugging%20Face-Profile-FFD21E?style=flat-square&logo=huggingface&logoColor=111111" alt="Hugging Face"/>
-  </a>
-  <a href="https://www.linkedin.com/in/%D8%A7%D9%84%D8%AD%D8%A7%D8%B1%D8%AB-%D8%A7%D9%84%D8%AF%D8%A7%D9%87%D9%8A%D8%A9-95b4a831a">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p><br>---
+<!--
+============================================================
+  ALHARETH AL-DAHIYA
+  GitHub Profile README
+  Editorial Engineering × Research Lab
+============================================================
+--><div align="center"><br><sub>ENGINEERING / AI / COMPUTER VISION</sub>
 
-01 / About
+Alhareth Al-Dahiya
 
-NAME        Alhareth Al-Dahiya
-FIELD       Information Technology
-DIRECTION   Software Engineering + Artificial Intelligence
-INTERESTS   Computer Vision · Backend Systems · System Design
-LOCATION    Yemen
-STATUS      Learning · Building · Experimenting
+I study systems deeply, build them deliberately, and improve them through evidence.
 
-I am an Information Technology student focused on developing the mindset and technical foundations required for Software Engineering and Artificial Intelligence.
+<br>"Information Technology"  ·  "Software Engineering"  ·  "Artificial Intelligence"
 
-I am especially interested in understanding how systems work beneath the surface — from requirements and architecture to implementation, experimentation, evaluation, and improvement.
+<br><a href="https://github.com/Alhareith">GitHub</a>
+  •  
+<a href="https://www.linkedin.com/in/%D8%A7%D9%84%D8%AD%D8%A7%D8%B1%D8%AB-%D8%A7%D9%84%D8%AF%D8%A7%D9%87%D9%8A%D8%A9-95b4a831a">LinkedIn</a>
+  •  
+<a href="https://huggingface.co/Alhareth7790">Hugging Face</a>
+  •  
+<a href="mailto:alhareithaldahia@gmail.com">Email</a>
 
-Rather than treating technologies as isolated tools, I prefer connecting:
+<br><br>
 
-Problem → Analysis → Design → Implementation → Measurement → Improvement
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=8B949E&center=true&vCenter=true&repeat=true&width=650&height=28&lines=understand+%E2%86%92+design+%E2%86%92+build+%E2%86%92+measure+%E2%86%92+improve;software+engineering+%C3%97+artificial+intelligence;building+systems+from+first+principles" alt="Engineering mindset"/><br>---
 
-My current work combines software engineering foundations with practical experiments in computer vision, image processing, backend development, system design, and intelligent decision-support systems.
+<sub>
+<a href="#about">ABOUT</a>
+&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
+<a href="#selected-work">SELECTED WORK</a>
+&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
+<a href="#research-log">RESEARCH</a>
+&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
+<a href="#toolkit">TOOLKIT</a>
+&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
+<a href="#engineering-mindset">MINDSET</a>
+&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
+<a href="#github-signal">GITHUB</a>
+</sub>---
 
----
+</div><br><a id="about"></a>
 
-02 / Currently Engineering
+01 — About
 
-<table>
+I am an Information Technology student building strong foundations in software engineering and artificial intelligence.
+
+My interest is not limited to making code work.
+
+I want to understand why a system works, how its parts interact, what assumptions it depends on, where it can fail, and how its quality can be measured before claiming that it is good.
+
+That leads most of my work through the same engineering loop:
+
+<div align="center">"Problem → Understand → Design → Build → Measure → Improve"
+
+</div><br><table>
 <tr>
-<td width="50%" valign="top">◈ Computer Vision Research
+<td width="50%" valign="top">CURRENT FOCUS
 
-Building and evaluating an object-detection pipeline for locating text regions in historical manuscript imagery.
+Software Engineering
 
-Synthetic Dataset Scaling
+Requirements, architecture, backend systems, databases and maintainable project structures.
 
-1K
- ↓
-5K
- ↓
-30K
- ↓
-50K
- ↓
-100K
- ↓
-Real-data Fine-tuning
+Artificial Intelligence
 
-Focus
+Machine learning, computer vision, image processing and experiment design.
 
-- Dataset generation
-- YOLO-format annotations
-- YOLOv8 training
-- Experiment comparison
-- Error analysis
-- Synthetic-to-real transfer
+</td>
+<td width="50%" valign="top">CURRENT MODE
 
-</td><td width="50%" valign="top">◈ Software Engineering
+Building
 
-Exploring how structured requirements and clean architecture can turn ideas into maintainable software systems.
+Academic and independent engineering projects.
 
-Problem
-   ↓
-Requirements
-   ↓
-Architecture
-   ↓
-Implementation
-   ↓
-Testing
-   ↓
-Iteration
+Experimenting
 
-Focus
+Testing ideas instead of assuming they work.
 
-- Requirements engineering
-- Modular architecture
-- Decision-support systems
-- Backend development
-- Database modeling
-- Project documentation
+Documenting
+
+Recording decisions, results and lessons learned.
 
 </td>
 </tr>
-</table>---
+</table><br>---
 
-03 / Selected Work
+<a id="selected-work"></a>
 
-01 — Fraud Detection
+02 — Selected Work
 
-«Machine Learning · Classification · Imbalanced Data»
+<sub>A few projects that represent what I am learning and how I approach engineering.</sub>
 
-A lightweight machine-learning pipeline for detecting potentially fraudulent financial transactions while exploring the challenges of highly imbalanced datasets.
-
-Engineering focus
-
-"Data Preparation" · "Feature Processing" · "Model Training" · "Evaluation"
-
-Stack
-
-"Python" · "XGBoost" · "Scikit-learn" · "Pandas"
-
-<p>
-  <a href="https://github.com/Alhareith/fraud-detection">
-    <img src="https://img.shields.io/badge/VIEW_REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
-  </a>
-</p>---
-
-02 — Arabic News Scraper
-
-«Data Engineering · Web Scraping · NLP Preparation»
-
-A data-collection pipeline for gathering Arabic news content and transforming raw web pages into structured datasets suitable for later NLP experimentation.
-
-Engineering focus
-
-"Collection" · "Concurrency" · "Cleaning" · "Structured Output"
-
-Stack
-
-"Python" · "BeautifulSoup" · "Requests" · "NLTK"
-
-<p>
-  <a href="https://github.com/Alhareith/arabic-news-scraper">
-    <img src="https://img.shields.io/badge/VIEW_REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
-  </a>
-</p>---
-
-03 — Pharmacy Management System
-
-«Software Fundamentals · OOP · Desktop Application»
-
-A pharmacy-management application developed to practice object-oriented software design and model common pharmacy workflows.
-
-Engineering focus
-
-"Object Modeling" · "Business Logic" · "Data Organization"
-
-Stack
-
-"C++" · "OOP" · "SQL Concepts"
-
-<p>
-  <a href="https://github.com/Alhareith/pharmacy-system">
-    <img src="https://img.shields.io/badge/VIEW_REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
-  </a>
-</p>---
-
-04 / Engineering Toolkit
-
-Instead of treating technologies as a collection of logos, I organize them according to where they fit inside a system.
+<br><br>
 
 <table>
 <tr>
-<td width="33%" valign="top">"LANGUAGES"
+<td width="50%" valign="top">01 / Fraud Detection
 
-- Python
-- C#
-- C++
-- SQL
-- HTML
-- CSS
-- JavaScript
+<sub>MACHINE LEARNING · CLASSIFICATION</sub>
 
-</td><td width="33%" valign="top">"AI / DATA"
+<br>A machine-learning pipeline for exploring fraud detection on imbalanced financial datasets.
 
-- YOLOv8
-- OpenCV
-- Scikit-learn
-- Pandas
-- XGBoost
-- Image Processing
-- Machine Learning
+The project focuses on the complete experimental path rather than model training alone:
 
-</td><td width="33%" valign="top">"SOFTWARE"
+data → preprocessing → training → evaluation
 
-- Object-Oriented Programming
-- Backend Fundamentals
-- REST Concepts
-- Database Design
-- UML
-- ERD Modeling
-- System Design
+<br>"Python" "XGBoost" "Scikit-learn" "Pandas"
+
+<br><br>
+
+<a href="https://github.com/Alhareith/fraud-detection">
+  <img src="https://img.shields.io/badge/OPEN_REPOSITORY-161B22?style=flat-square&logo=github&logoColor=white">
+</a></td>
+<td width="50%" valign="top">02 / Arabic News Scraper
+
+<sub>DATA ENGINEERING · NLP</sub>
+
+<br>A structured collection pipeline for gathering Arabic news content and preparing it for later natural-language-processing experiments.
+
+The focus is on turning unstructured web content into usable data.
+
+<br>"Python" "BeautifulSoup" "Requests" "NLTK"
+
+<br><br>
+
+<a href="https://github.com/Alhareith/arabic-news-scraper">
+  <img src="https://img.shields.io/badge/OPEN_REPOSITORY-161B22?style=flat-square&logo=github&logoColor=white">
+</a></td>
+</tr><tr>
+<td width="50%" valign="top">03 / Pharmacy Management
+
+<sub>SOFTWARE DESIGN · OOP</sub>
+
+<br>A desktop application created to explore object-oriented design through pharmacy workflows and business logic.
+
+The project helped translate real-world entities into software objects and responsibilities.
+
+<br>"C++" "OOP" "Data Modeling"
+
+<br><br>
+
+<a href="https://github.com/Alhareith/pharmacy-system">
+  <img src="https://img.shields.io/badge/OPEN_REPOSITORY-161B22?style=flat-square&logo=github&logoColor=white">
+</a></td>
+<td width="50%" valign="top">04 / Computer Vision Lab
+
+<sub>OBJECT DETECTION · RESEARCH</sub>
+
+<br>An experimental computer-vision workflow for detecting text regions in historical manuscript imagery.
+
+The project explores dataset engineering, controlled scaling, YOLOv8 training and synthetic-to-real evaluation.
+
+<br>"Python" "YOLOv8" "OpenCV" "Experiment Design"
+
+<br><br>
+
+<img src="https://img.shields.io/badge/STATUS-ACTIVE_RESEARCH-238636?style=flat-square"></td>
+</tr>
+</table><br><div align="right">
+<sub>Selected work — not a complete project archive.</sub>
+</div><br>---
+
+<a id="research-log"></a>
+
+03 — Research Log
+
+<sub>Current computer-vision experiment.</sub>
+
+<br>Historical Text Region Detection
+
+The experiment is intentionally being scaled in controlled stages.
+
+The objective is not to train the largest model as quickly as possible.
+
+The objective is to understand what changes, why it changes, and whether the pipeline remains reliable as the experiment grows.
+
+<br><div align="center">DATASET SCALE
+
+"1K"　→　"5K"　→　"30K"　→　"50K"　→　"100K"　→　"REAL DATA"
+
+</div><br>Stage| Purpose
+1K| Validate the complete training pipeline
+5K| Measure the first controlled improvement
+30K| Study the effect of scale and diversity
+50K| Test stability at a larger scale
+100K| Establish the large synthetic-data experiment
+Real Data| Evaluate and fine-tune beyond the synthetic domain
+
+<br>What is being measured?
+
+<table>
+<tr>
+<td width="20%" align="center"><b>DATA</b><br><sub>generation</sub></td>
+<td width="20%" align="center"><b>LABELS</b><br><sub>correctness</sub></td>
+<td width="20%" align="center"><b>MODEL</b><br><sub>learning</sub></td>
+<td width="20%" align="center"><b>ERROR</b><br><sub>analysis</sub></td>
+<td width="20%" align="center"><b>SCALE</b><br><sub>behavior</sub></td>
+</tr>
+</table><br>«The goal of a small experiment is not to prove that the final system works.
+It is to make the next experiment more informed.»
+
+<br>---
+
+<a id="toolkit"></a>
+
+04 — Engineering Toolkit
+
+<sub>Technologies organized by responsibility — not by logo count.</sub>
+
+<br>Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cs,cpp,js,html,css" alt="Programming Languages">
+</p>AI & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=opencv,tensorflow" alt="AI tools">
+</p>"YOLOv8"   "Scikit-learn"   "Pandas"   "XGBoost"   "Image Processing"
+
+Backend & Data Systems
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,flask,postgres,mysql" alt="Backend technologies">
+</p>"REST"   "Database Design"   "ERD"   "Backend Fundamentals"
+
+Engineering Environment
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" alt="Engineering tools">
+</p>"Git"   "GitHub"   "Jupyter"   "Google Colab"   "Documentation"
+
+<br><details>
+<summary><b>What I am currently strengthening</b></summary><br>I am actively developing deeper understanding in:
+
+- software architecture
+- backend engineering
+- requirements engineering
+- database modeling
+- computer vision
+- image processing
+- machine-learning evaluation
+- experiment design
+- networking and client/server systems
+- containerization and deployment foundations
+
+The goal is not to collect technologies.
+
+The goal is to understand where each technology belongs inside a complete system.
+
+</details><br>---
+
+<a id="engineering-mindset"></a>
+
+05 — Engineering Mindset
+
+<br><table>
+<tr>
+<td width="33%" valign="top">01
+
+Understand before building.
+
+A solution is difficult to design correctly when the problem itself is still vague.
+
+</td>
+<td width="33%" valign="top">02
+
+Design before scaling.
+
+Making a weak system larger does not make it better.
+
+</td>
+<td width="33%" valign="top">03
+
+Measure before claiming.
+
+An improvement should be supported by evidence, not intuition alone.
 
 </td>
 </tr><tr>
-<td width="33%" valign="top">"ENGINEERING"
+<td width="33%" valign="top">04
 
-- Requirements Analysis
-- Modular Design
-- Git
-- GitHub
-- Documentation
-- Experiment Tracking
+Prefer clarity over cleverness.
 
-</td><td width="33%" valign="top">"ENVIRONMENT"
+Simple architecture that can be understood and maintained is valuable.
 
-- Visual Studio Code
-- Jupyter Notebook
-- Google Colab
-- Windows
-- Linux
-- GitHub
+</td>
+<td width="33%" valign="top">05
 
-</td><td width="33%" valign="top">"EXPLORING"
+Treat documentation as engineering.
 
-- Django
-- Flask
-- Docker
-- Backend Architecture
-- AI Deployment
-- Research Workflows
+Important decisions should survive beyond the moment in which they were made.
+
+</td>
+<td width="33%" valign="top">06
+
+Learn from failure.
+
+An experiment that explains why something failed can still be a useful experiment.
 
 </td>
 </tr>
-</table>---
+</table><br><div align="center">UNDERSTAND
 
-05 / How I Think
+↓
 
-                    ┌─────────────────┐
-                    │     PROBLEM     │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │   UNDERSTAND    │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │     DESIGN      │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │      BUILD      │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │     MEASURE     │
-                    └────────┬────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │     IMPROVE     │
-                    └─────────────────┘
+DESIGN
 
-I prefer learning from first principles.
+↓
 
-For me, knowing how to use a framework or model is not enough. I want to understand:
+BUILD
 
-- What problem does it solve?
-- Why was it designed this way?
-- What assumptions does it make?
-- Where does it fail?
-- What alternatives exist?
-- How can the result be measured?
-- What should change when the system scales?
+↓
 
-«Tools change. Engineering reasoning compounds.»
+MEASURE
 
----
+↓
 
-06 / Current Learning Map
+IMPROVE
 
-SOFTWARE ENGINEERING
-├── Requirements Engineering
-├── System Modeling
-├── Architecture
-├── Backend Development
-├── Databases
-├── Testing
-└── Project Organization
+<br><sub>then repeat.</sub>
 
+</div><br>---
 
-ARTIFICIAL INTELLIGENCE
-├── Machine Learning
-├── Computer Vision
-├── Image Processing
-├── Object Detection
-├── Dataset Engineering
-├── Model Evaluation
-└── Experiment Design
+06 — Learning Architecture
 
+Instead of studying each field as an isolated subject, I try to connect them into one engineering map.
 
-SYSTEM FOUNDATIONS
-├── Client / Server
-├── Networking
-├── Operating Environments
-├── Version Control
-└── Deployment Foundations
+                            ENGINEERING
+                                │
+              ┌─────────────────┴─────────────────┐
+              │                                   │
+        SOFTWARE SYSTEMS                   INTELLIGENT SYSTEMS
+              │                                   │
+      ┌───────┼────────┐                 ┌────────┼─────────┐
+      │       │        │                 │        │         │
+ Requirements │    Databases         Machine   Computer   Data
+              │                    Learning    Vision   Engineering
+        Architecture
+              │
+           Backend
+              │
+          APIs / Web
+              │
+      Deployment Foundations
 
-The goal is not to learn each area independently.
+The connection between these areas matters more to me than treating any one framework as the final goal.
 
-The goal is to understand how they connect when building a real system.
+<br>---
 
----
+<a id="github-signal"></a>
 
-07 / GitHub Signal
+07 — GitHub Signal
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Alhareith&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF"
-    width="49%"
-    alt="Alhareth GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alhareith&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6"
-    width="49%"
-    alt="Most Used Languages"
-  />
-</p><br><p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Alhareith&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true"
-    width="100%"
-    alt="GitHub Activity Graph"
-  />
-</p>---
+<sub>Activity is useful context. It is not a substitute for project quality.</sub>
 
-08 / Engineering Principles
+<br><div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=Alhareith&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&rank_icon=github" alt="GitHub Statistics"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alhareith&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&langs_count=6" alt="Most Used Languages"></div><br>---
 
-01  Understand before abstracting.
+08 — Current Direction
 
-02  Design before scaling.
+NOW
+│
+├─ strengthen software-engineering fundamentals
+├─ build complete projects instead of isolated exercises
+├─ run controlled computer-vision experiments
+├─ improve backend and database design
+├─ document engineering decisions
+│
+└─ move toward
+      │
+      ├─ Software Engineering
+      └─ AI Engineering
 
-03  Measure before claiming improvement.
+<br>---
 
-04  Prefer clear systems over clever complexity.
+09 — Connect
 
-05  Documentation is part of engineering.
+<div align="center">Open to learning, engineering discussions and interesting technical ideas.
 
-06  A working prototype is a beginning — not proof of correctness.
-
-07  Good architecture should make future change easier, not harder.
-
----
-
-09 / Beyond the Code
-
-I am building toward the ability to work across the complete engineering lifecycle:
-
-Idea
- │
- ▼
-Problem Definition
- │
- ▼
-Requirements
- │
- ▼
-Architecture
- │
- ▼
-Implementation
- │
- ▼
-Testing
- │
- ▼
-Experimentation
- │
- ▼
-Measurement
- │
- ▼
-Iteration
- │
- ▼
-Reliable System
-
-My long-term direction is to combine software engineering discipline with AI engineering, especially in systems where intelligent models are only one component of a larger, reliable architecture.
-
----
-
-10 / Connect
-
-<p align="center"><a href="https://www.linkedin.com/in/%D8%A7%D9%84%D8%AD%D8%A7%D8%B1%D8%AB-%D8%A7%D9%84%D8%AF%D8%A7%D9%87%D9%8A%D8%A9-95b4a831a">
-  <img src="https://img.shields.io/badge/LINKEDIN-ALHARETH_AL--DAHIYA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<br><a href="https://www.linkedin.com/in/%D8%A7%D9%84%D8%AD%D8%A7%D8%B1%D8%AB-%D8%A7%D9%84%D8%AF%D8%A7%D9%87%D9%8A%D8%A9-95b4a831a">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a><a href="https://huggingface.co/Alhareth7790">
-  <img src="https://img.shields.io/badge/HUGGING_FACE-ALHARETH7790-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111111" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/Hugging_Face-111111?style=for-the-badge&logo=huggingface&logoColor=FFD21E">
 </a><a href="mailto:alhareithaldahia@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-ALHAREITHALDAHIA-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a></p><br><p align="center">
-  <code>Engineering is not about collecting technologies. It is about learning how to make systems work.</code>
-</p><br><p align="center">
-  <a href="#01--about">
-    <img src="https://img.shields.io/badge/↑_BACK_TO_TOP-0D1117?style=flat-square&logoColor=white" alt="Back to top"/>
-  </a>
-</p><!-- FOOTER --><p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:111827,100:2F81F7&height=100&section=footer"
-    width="100%"
-    alt="Footer"
-  />
-</p>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a><br><br><br>
+
+<sub>ALHARETH AL-DAHIYA / ENGINEERING LOG</sub>
+
+<br>"Think deeply. Build clearly. Measure everything."
+
+<br><a href="#about">↑ Back to the beginning</a>
+
+<br><br>
+
+</div>
