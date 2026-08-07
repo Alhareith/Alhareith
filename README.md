@@ -1,149 +1,419 @@
-<!-- HEADER BANNER (Wave Animation) -->
+<!-- =========================================================
+     ALHARETH AL-DAHIYA — GITHUB PROFILE README
+     Midnight Research × Editorial Engineering
+========================================================== --><!-- HERO --><p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:111827,100:0D1117&height=230&section=header&text=ALHARETH%20AL-D‌AHIYA&fontSize=44&fontColor=F8FAFC&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%E2%80%A2%20AI%20%E2%80%A2%20COMPUTER%20VISION&descSize=16&descAlignY=60"
+    width="100%"
+    alt="Alhareth Al-Dahiya"
+  />
+</p><p align="center">
+  <strong>Information Technology Student · Building toward Software & AI Engineering</strong>
+</p><p align="center">
+  <em>Understand the system → Design it clearly → Build it carefully → Measure → Improve.</em>
+</p><br><p align="center">
+  <a href="https://github.com/Alhareith">
+    <img src="https://img.shields.io/github/followers/Alhareith?style=flat-square&logo=github&label=Followers&color=2F81F7" alt="GitHub Followers"/>
+  </a>
+  <a href="mailto:alhareithaldahia@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://huggingface.co/Alhareth7790">
+    <img src="https://img.shields.io/badge/Hugging%20Face-Profile-FFD21E?style=flat-square&logo=huggingface&logoColor=111111" alt="Hugging Face"/>
+  </a>
+  <a href="https://www.linkedin.com/in/%D8%A7%D9%84%D8%AD%D8%A7%D8%B1%D8%AB-%D8%A7%D9%84%D8%AF%D8%A7%D9%87%D9%8A%D8%A9-95b4a831a">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p><br>---
+
+01 / About
+
+NAME        Alhareth Al-Dahiya
+FIELD       Information Technology
+DIRECTION   Software Engineering + Artificial Intelligence
+INTERESTS   Computer Vision · Backend Systems · System Design
+LOCATION    Yemen
+STATUS      Learning · Building · Experimenting
+
+I am an Information Technology student focused on developing the mindset and technical foundations required for Software Engineering and Artificial Intelligence.
+
+I am especially interested in understanding how systems work beneath the surface — from requirements and architecture to implementation, experimentation, evaluation, and improvement.
+
+Rather than treating technologies as isolated tools, I prefer connecting:
+
+Problem → Analysis → Design → Implementation → Measurement → Improvement
+
+My current work combines software engineering foundations with practical experiments in computer vision, image processing, backend development, system design, and intelligent decision-support systems.
+
+---
+
+02 / Currently Engineering
+
+<table>
+<tr>
+<td width="50%" valign="top">◈ Computer Vision Research
+
+Building and evaluating an object-detection pipeline for locating text regions in historical manuscript imagery.
+
+Synthetic Dataset Scaling
+
+1K
+ ↓
+5K
+ ↓
+30K
+ ↓
+50K
+ ↓
+100K
+ ↓
+Real-data Fine-tuning
+
+Focus
+
+- Dataset generation
+- YOLO-format annotations
+- YOLOv8 training
+- Experiment comparison
+- Error analysis
+- Synthetic-to-real transfer
+
+</td><td width="50%" valign="top">◈ Software Engineering
+
+Exploring how structured requirements and clean architecture can turn ideas into maintainable software systems.
+
+Problem
+   ↓
+Requirements
+   ↓
+Architecture
+   ↓
+Implementation
+   ↓
+Testing
+   ↓
+Iteration
+
+Focus
+
+- Requirements engineering
+- Modular architecture
+- Decision-support systems
+- Backend development
+- Database modeling
+- Project documentation
+
+</td>
+</tr>
+</table>---
+
+03 / Selected Work
+
+01 — Fraud Detection
+
+«Machine Learning · Classification · Imbalanced Data»
+
+A lightweight machine-learning pipeline for detecting potentially fraudulent financial transactions while exploring the challenges of highly imbalanced datasets.
+
+Engineering focus
+
+"Data Preparation" · "Feature Processing" · "Model Training" · "Evaluation"
+
+Stack
+
+"Python" · "XGBoost" · "Scikit-learn" · "Pandas"
+
+<p>
+  <a href="https://github.com/Alhareith/fraud-detection">
+    <img src="https://img.shields.io/badge/VIEW_REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
+  </a>
+</p>---
+
+02 — Arabic News Scraper
+
+«Data Engineering · Web Scraping · NLP Preparation»
+
+A data-collection pipeline for gathering Arabic news content and transforming raw web pages into structured datasets suitable for later NLP experimentation.
+
+Engineering focus
+
+"Collection" · "Concurrency" · "Cleaning" · "Structured Output"
+
+Stack
+
+"Python" · "BeautifulSoup" · "Requests" · "NLTK"
+
+<p>
+  <a href="https://github.com/Alhareith/arabic-news-scraper">
+    <img src="https://img.shields.io/badge/VIEW_REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
+  </a>
+</p>---
+
+03 — Pharmacy Management System
+
+«Software Fundamentals · OOP · Desktop Application»
+
+A pharmacy-management application developed to practice object-oriented software design and model common pharmacy workflows.
+
+Engineering focus
+
+"Object Modeling" · "Business Logic" · "Data Organization"
+
+Stack
+
+"C++" · "OOP" · "SQL Concepts"
+
+<p>
+  <a href="https://github.com/Alhareith/pharmacy-system">
+    <img src="https://img.shields.io/badge/VIEW_REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
+  </a>
+</p>---
+
+04 / Engineering Toolkit
+
+Instead of treating technologies as a collection of logos, I organize them according to where they fit inside a system.
+
+<table>
+<tr>
+<td width="33%" valign="top">"LANGUAGES"
+
+- Python
+- C#
+- C++
+- SQL
+- HTML
+- CSS
+- JavaScript
+
+</td><td width="33%" valign="top">"AI / DATA"
+
+- YOLOv8
+- OpenCV
+- Scikit-learn
+- Pandas
+- XGBoost
+- Image Processing
+- Machine Learning
+
+</td><td width="33%" valign="top">"SOFTWARE"
+
+- Object-Oriented Programming
+- Backend Fundamentals
+- REST Concepts
+- Database Design
+- UML
+- ERD Modeling
+- System Design
+
+</td>
+</tr><tr>
+<td width="33%" valign="top">"ENGINEERING"
+
+- Requirements Analysis
+- Modular Design
+- Git
+- GitHub
+- Documentation
+- Experiment Tracking
+
+</td><td width="33%" valign="top">"ENVIRONMENT"
+
+- Visual Studio Code
+- Jupyter Notebook
+- Google Colab
+- Windows
+- Linux
+- GitHub
+
+</td><td width="33%" valign="top">"EXPLORING"
+
+- Django
+- Flask
+- Docker
+- Backend Architecture
+- AI Deployment
+- Research Workflows
+
+</td>
+</tr>
+</table>---
+
+05 / How I Think
+
+                    ┌─────────────────┐
+                    │     PROBLEM     │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │   UNDERSTAND    │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │     DESIGN      │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │      BUILD      │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │     MEASURE     │
+                    └────────┬────────┘
+                             │
+                             ▼
+                    ┌─────────────────┐
+                    │     IMPROVE     │
+                    └─────────────────┘
+
+I prefer learning from first principles.
+
+For me, knowing how to use a framework or model is not enough. I want to understand:
+
+- What problem does it solve?
+- Why was it designed this way?
+- What assumptions does it make?
+- Where does it fail?
+- What alternatives exist?
+- How can the result be measured?
+- What should change when the system scales?
+
+«Tools change. Engineering reasoning compounds.»
+
+---
+
+06 / Current Learning Map
+
+SOFTWARE ENGINEERING
+├── Requirements Engineering
+├── System Modeling
+├── Architecture
+├── Backend Development
+├── Databases
+├── Testing
+└── Project Organization
+
+
+ARTIFICIAL INTELLIGENCE
+├── Machine Learning
+├── Computer Vision
+├── Image Processing
+├── Object Detection
+├── Dataset Engineering
+├── Model Evaluation
+└── Experiment Design
+
+
+SYSTEM FOUNDATIONS
+├── Client / Server
+├── Networking
+├── Operating Environments
+├── Version Control
+└── Deployment Foundations
+
+The goal is not to learn each area independently.
+
+The goal is to understand how they connect when building a real system.
+
+---
+
+07 / GitHub Signal
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:0D1117&height=200&section=header&text=Alhareth%20Al-Dahiya&fontSize=50&fontColor=FFFFFF&animation=fadeIn"/>
-</p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Alhareith&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF"
+    width="49%"
+    alt="Alhareth GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alhareith&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6"
+    width="49%"
+    alt="Most Used Languages"
+  />
+</p><br><p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Alhareith&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
+</p>---
 
-<!-- SOCIAL & VISITOR BADGES -->
-<p align="center">
-  <a href="https://github.com/Alhareith"><img src="https://img.shields.io/github/followers/Alhareith?label=Follow&style=social" alt="GitHub followers"/></a>
-  <a href="https://github.com/Alhareith"><img src="https://img.shields.io/github/stars/Alhareith?style=social" alt="GitHub stars"/></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Alhareith.Alhareith" alt="visitor badge"/>
-  <a href="mailto:alhareithaldahia@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+08 / Engineering Principles
 
-<!-- TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Information+Technology+Student;Software+Engineering+Enthusiast;Machine+Learning+Learner;Building+AI-powered+Systems" alt="Typing SVG"/>
-</p>
+01  Understand before abstracting.
 
----
+02  Design before scaling.
 
-## 📖 Table of Contents
-- [👋 About Me](#-about-me)
-- [🧠 Engineering Stack](#-engineering-stack)
-- [🚀 Featured Projects](#-featured-projects)
-- [📚 Continuous Evolution](#-continuous-evolution)
-- [📊 GitHub Analytics](#-github-analytics)
-- [🏛️ Engineering Philosophy](#️-engineering-philosophy)
-- [📫 Connect with Me](#-connect-with-me)
-- [🔝 Back to Top](#-back-to-top)
+03  Measure before claiming improvement.
 
----
+04  Prefer clear systems over clever complexity.
 
-## 👋 About Me
-Hello, I'm **Alhareth Al-Dahiya** – a Software Engineer passionate about designing reliable systems, building high-performance data pipelines, and bridging clean code with intelligent AI solutions.
+05  Documentation is part of engineering.
 
-I specialize in **architecting structured codebases**, **analyzing system workflows**, and implementing **scalable backends** and networking foundations. My goal is to engineer robust software and AI-driven platforms that solve real-world complexities from the ground up.
+06  A working prototype is a beginning — not proof of correctness.
 
----
-
-## 🧠 Engineering Stack
-
-> *Organized into clear domains. Click on any section to expand for more details.*
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <strong>💻 Core Languages</strong><br><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    </td>
-    <td align="center" width="33%">
-      <strong>🤖 AI & Machine Learning</strong><br><br>
-      <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge" /><br>
-      <img src="https://img.shields.io/badge/Data%20Processing-2F81F7?style=for-the-badge" /><br>
-      <img src="https://img.shields.io/badge/Deployment-Gradio%20%7C%20HF%20Spaces-FF6B6B?style=for-the-badge" />
-    </td>
-    <td align="center" width="33%">
-      <strong>☁️ DevOps & Infrastructure</strong><br><br>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><br>
-      <img src="https://img.shields.io/badge/Networking-1E90FF?style=for-the-badge" /><br>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="3">
-      <strong>🏛️ Systems & Architecture</strong><br><br>
-      <img src="https://img.shields.io/badge/System%20Design-6C5CE7?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/UML-8E44AD?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Databases-00B894?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/ERD%20Modeling-0984E3?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/OOP%20%26%20Patterns-1E90FF?style=for-the-badge" />
-    </td>
-  </tr>
-</table>
+07  Good architecture should make future change easier, not harder.
 
 ---
 
-## 🚀 Featured Projects
+09 / Beyond the Code
 
-<details>
-  <summary><strong>📦 Click to expand full project details</strong></summary>
-  <br>
+I am building toward the ability to work across the complete engineering lifecycle:
 
-| Project | Description | Tech Stack | Repo |
-|---------|-------------|------------|------|
-| **🧠 Fraud Detection** | Lightweight ML pipeline for detecting fraudulent transactions using imbalanced financial datasets. | Python, XGBoost, Scikit-learn, Pandas | [Link](https://github.com/Alhareith/fraud-detection) |
-| **📰 Arabic News Scraper** | Multi-threaded scraper for collecting Arabic news and preparing structured datasets for NLP tasks. | Python, BeautifulSoup, Requests, NLTK | [Link](https://github.com/Alhareith/arabic-news-scraper) |
-| **💊 Pharmacy Management** | Desktop app using OOP principles for managing pharmacy workflows and operations. | C++, OOP, SQL concepts | [Link](https://github.com/Alhareith/pharmacy-system) |
+Idea
+ │
+ ▼
+Problem Definition
+ │
+ ▼
+Requirements
+ │
+ ▼
+Architecture
+ │
+ ▼
+Implementation
+ │
+ ▼
+Testing
+ │
+ ▼
+Experimentation
+ │
+ ▼
+Measurement
+ │
+ ▼
+Iteration
+ │
+ ▼
+Reliable System
 
-</details>
-
----
-
-## 📚 Continuous Evolution
-To maintain my architectural edge and align with modern cloud/data trends, I'm currently scaling my expertise in:
-
-- 🐳 **Container Orchestration** – Deepening Docker & Docker Compose implementation through open-source codebases (e.g., Planka) for smooth dependency-free deployments.
-- ⚡ **Advanced Backend Scaling** – Developing production-grade RESTful APIs using **.NET Core Web API** to complement my C# foundations.
-- 🏗️ **Agile Project Delivery** – Refining requirements engineering and project blueprinting using **ClickUp** boards for optimal task tracking.
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alhareith&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alhareith&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alhareith&theme=tokyonight" alt="Streak Stats" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alhareith&theme=tokyonight" alt="Activity Graph" width="100%" />
-</p>
+My long-term direction is to combine software engineering discipline with AI engineering, especially in systems where intelligent models are only one component of a larger, reliable architecture.
 
 ---
 
-## 🏛️ Engineering Philosophy
-> *"Every systematic architecture built today eliminates a dozen production failures tomorrow. Clean, modular code isn't just a preference; it's a structural responsibility to ensure predictability, scalability, and deterministic performance."*
+10 / Connect
 
----
-
-## 📫 Connect with Me
-- **LinkedIn**:  <a href="https://www.linkedin.com/in/%D8%A7%D9%84%D8%AD%D8%A7%D8%B1%D8%AB-%D8%A7%D9%84%D8%AF%D8%A7%D9%87%D9%8A%D8%A9-95b4a831a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  
-- **Hugging Face:** <a
-href="https://huggingface.co/Alhareth7790">
-  <img src="https://img.shields.io/badge/🤗%20Visit%20My-Hugging%20Face-black?style=flat&logo=huggingface&logoColor=FFD21E&labelColor=111" alt="Hugging Face Profile"/>
-</a>
-
-</a>
-
-- **Email:** alhareithaldahia@gmail.com
-
----
-
-## 🔝 Back to Top
-[↑ Back to Top](#-table-of-contents)
-
-<!-- FOOTER WAVE -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2F81F7&height=100&section=footer"/>
+<p align="center"><a href="https://www.linkedin.com/in/%D8%A7%D9%84%D8%AD%D8%A7%D8%B1%D8%AB-%D8%A7%D9%84%D8%AF%D8%A7%D9%87%D9%8A%D8%A9-95b4a831a">
+  <img src="https://img.shields.io/badge/LINKEDIN-ALHARETH_AL--DAHIYA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a><a href="https://huggingface.co/Alhareth7790">
+  <img src="https://img.shields.io/badge/HUGGING_FACE-ALHARETH7790-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111111" alt="Hugging Face"/>
+</a><a href="mailto:alhareithaldahia@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-ALHAREITHALDAHIA-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a></p><br><p align="center">
+  <code>Engineering is not about collecting technologies. It is about learning how to make systems work.</code>
+</p><br><p align="center">
+  <a href="#01--about">
+    <img src="https://img.shields.io/badge/↑_BACK_TO_TOP-0D1117?style=flat-square&logoColor=white" alt="Back to top"/>
+  </a>
+</p><!-- FOOTER --><p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:111827,100:2F81F7&height=100&section=footer"
+    width="100%"
+    alt="Footer"
+  />
 </p>
