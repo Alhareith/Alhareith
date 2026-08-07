@@ -145,6 +145,8 @@ My interests have gradually moved beyond writing code toward the engineering que
 My development is organized around three connected layers.
 
 </div>
+---
+
 
 ```mermaid
 %%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#161b22', 'primaryTextColor': '#c9d1d9', 'primaryBorderColor': '#30363d', 'lineColor': '#58a6ff', 'secondaryColor': '#21262d', 'tertiaryColor': '#0d1117'}}}%%
