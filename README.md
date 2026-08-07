@@ -474,7 +474,7 @@ The goal is to understand the principles well enough to **learn new tools quickl
 ---
 
 # 08 — Selected Areas of Practice
-
+```
 | Area                    | Current Direction                                        |
 | ----------------------- | -------------------------------------------------------- |
 | Software Engineering    | System design, architecture, requirements, modularity    |
@@ -485,7 +485,7 @@ The goal is to understand the principles well enough to **learn new tools quickl
 | Data Engineering        | Dataset construction, preprocessing, curation            |
 | Systems                 | Client/server, networking, operating-system foundations  |
 | Collaboration           | Git, GitHub, structured workflows and documentation      |
-
+```
 ---
 
 # 09 — Beyond Tools
