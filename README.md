@@ -44,6 +44,7 @@ flowchart LR
     D --> E[MEASURE]
     E --> F[IMPROVE]
     F -.-> A
+```
 
 <p align="center">
 <img src="https://img.shields.io/badge/SOFTWARE_ENGINEERING-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Software Engineering"/>
@@ -94,14 +95,14 @@ graph TD
 </p>
 PROJECT 02 — Human Proctoring Assistant
 A real-time vision system generating risk indicators to assist human proctors during examination monitoring.
-graph LR
+```graph LR
     Cam[Video Stream] --> Proc[Frame Processing]
     Proc --> Phone[Object Detection]
     Proc --> Paper[Material Detection]
     Proc --> Head[Pose & Behavior Signals]
     Phone & Paper & Head --> Agg[Suspicion Signal Matrix]
     Agg --> Human[Human Review Layer]
-
+```
  * Stack: <img src="https://skillicons.dev/icons?i=python,opencv,pytorch" height="20" alt="Tech Stack"/> Python · OpenCV · YOLO · PyTorch
  * Focus: Real-time object detection, human-in-the-loop AI system architecture.
 <p>
@@ -111,7 +112,7 @@ graph LR
 </p>
 PROJECT 03 — Masar: Adaptive Workflow Engine
 An enterprise software concept for modeling, executing, and observing state-driven organizational workflows.
-graph TD
+``|graph TD
     Process[Business Process] --> Engine[Workflow Core]
     subgraph Engine
         Tasks[Task Management]
@@ -120,7 +121,7 @@ graph TD
     end
     Engine --> Control[Process Orchestration]
     Control --> Observability[Logging & Metrics]
-
+```
  * Focus: Modular state machines, process orchestration, trade-offs between modular systems and workflow engines.
 <p>
 <img src="https://img.shields.io/badge/System_Analysis-161B22?style=flat-square&logo=diagramsdotnet&logoColor=F08705"/>
@@ -129,12 +130,12 @@ graph TD
 </p>
 PROJECT 04 — Interactive Computer Vision Platform
 An integrated environment linking computer vision theory, interactive code labs, and AI-assisted experimentation.
-graph LR
+```graph LR
     K[Knowledge Base] --> Lab[Interactive Labs]
     Lab --> Exp[Live Experiments]
     Exp --> AI[AI Assistance]
     AI --> Path[Personalized Learning]
-
+```
 <p>
 <img src="https://img.shields.io/badge/Educational_System_Design-161B22?style=flat-square&logo=bookstack&logoColor=58A6FF"/>
 <img src="https://img.shields.io/badge/Knowledge_Architecture-161B22?style=flat-square&logo=obsidian&logoColor=A88BFA"/>
@@ -174,7 +175,7 @@ graph LR
 </tr>
 </table>
 05 / System Architecture & Capabilities
-flowchart TD
+```flowchart TD
     subgraph Software Engineering
         SE1[Requirements] --> SE2[System Architecture] --> SE3[Backend & APIs] --> SE4[Testing & Docs]
     end
@@ -182,7 +183,7 @@ flowchart TD
         AI1[Dataset Pipeline] --> AI2[Preprocessing] --> AI3[Model Training] --> AI4[Error Analysis]
     end
     SE3 & AI3 --> System[Unified Intelligent System]
-
+```
 06 / Core Engineering Principles
 > [!TIP]
 >  * Understand Before Implementing: Never solve a poorly defined problem.
@@ -192,7 +193,7 @@ flowchart TD
 >  * Document Decisions: Record what was chosen, why, and what trade-offs were accepted.
 > 
 07 / System Blueprint
-graph TD
+```graph TD
     ENG[ENGINEERING SYSTEM] --> SE[Software Systems]
     ENG --> AI[Intelligent Systems]
     
@@ -203,6 +204,7 @@ graph TD
     AI --> AI_Eval[Evaluation & Experiments]
     
     SE_Dev & AI_Eval --> Production[Complete Maintainable System]
+```
 
 08 / Skills Summary
  * Software: Requirements · Architecture · System Design · Backend · Modular Monoliths
