@@ -1,11 +1,10 @@
 <!-- =========================================================
      ALHARETH AL-DAHIYA — GITHUB PROFILE
      Software Engineering · AI · Computer Vision
-========================================================== --><div align="center"><img
-width="100%"
+========================================================== --><div align="center">
+<img width="100%"
 src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:161B22,75:1F6FEB,100:58A6FF&height=220&section=header&text=ALHARETH%20AL-DAHIYA&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineering%20%C3%97%20Artificial%20Intelligence&descSize=17&descAlignY=56&animation=fadeIn"
-alt="Alhareth Al-Dahiya"
-/>
+alt="Alhareth Al-Dahiya"/>
 
 Information Technology Student
 
