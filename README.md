@@ -1,725 +1,834 @@
-<!-- =========================================================
-     ALHARETH AL-DAHIYA — GITHUB PROFILE
-     Engineering Portfolio · Systems · AI · Computer Vision
-     redesigned by creative dark-engineering aesthetic
-========================================================== -->
+<!-- ============================================================
+     ALHARETH AL-DAHIYA — GITHUB PROFILE README
+     Mobile First · Dark Engineering · AI · Software Systems
+============================================================= --><div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:161B22,75:1F6FEB,100:58A6FF&height=230&section=header&text=ALHARETH%20AL-DAHIYA&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineering%20%C3%97%20Artificial%20Intelligence&descSize=17&descAlignY=56&animation=fadeIn" alt="Alhareth Al-Dahiya"/><br>"Information Technology Student"
 
-<div align="center">
+Software Engineering · Artificial Intelligence · Computer Vision · System Design
 
-<!-- ═══════════════════════════════════════════════════════════
-     HERO SECTION — CINEMATIC SVG BACKGROUND
-     ═══════════════════════════════════════════════════════════ -->
+<br><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=35&lines=Understand+before+implementing.;Architecture+before+unnecessary+complexity.;Evidence+over+assumptions.;Build+%E2%86%92+Measure+%E2%86%92+Learn+%E2%86%92+Improve." alt="Engineering philosophy"/><br><a href="https://github.com/Alhareith">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/%D8%A7%D9%84%D8%AD%D8%A7%D8%B1%D8%AB-%D8%A7%D9%84%D8%AF%D8%A7%D9%87%D9%8A%D8%A9-95b4a831a">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://huggingface.co/Alhareth7790">
+  <img src="https://img.shields.io/badge/Hugging%20Face-111111?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face"/>
+</a>
+<a href="mailto:alhareithaldahia@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a><br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:21262d,75:30363d,100:0d1117&height=320&section=header&text=Alhareth%20Al-Dahiya&fontSize=55&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Information%20Technology%20Student%20%C2%B7%20Software%20Engineering%20%C2%B7%20AI%20%26%20Computer%20Vision&descSize=18&descAlignY=55&descAlign=50"/>
+<sub>
+ENGINEERING PROFILE · YEMEN
+</sub></div>---
 
-<br>
+"01 /" About
 
-<!-- ═══════════════════════════════════════════════════════════
-     TYPING SVG — DYNAMIC TAGLINE
-     ═══════════════════════════════════════════════════════════ -->
+I am Alhareth Al-Dahiya, an Information Technology student building my path toward Software Engineering and AI Engineering.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=I+learn+systems+by+understanding+them...;Designing+them...;Building+them...;And+measuring+them.;Architecture+Before+Complexity.;Evidence+Over+Assumptions.;Build+Small%2C+Learn+Fast.)](https://git.io/typing-svg)
+My interest in technology goes beyond writing code or learning frameworks.
 
-<br>
+I want to understand the systems behind them:
 
-<!-- ═══════════════════════════════════════════════════════════
-     SOCIAL BADGES — NEON GLOW STYLE
-     ═══════════════════════════════════════════════════════════ -->
+- how a problem should be analyzed before implementation,
+- how requirements become architecture,
+- how software components communicate,
+- how data flows through a system,
+- where complexity should exist,
+- how experiments should be designed,
+- how performance should be measured,
+- how failures should be investigated,
+- and how a prototype evolves into a maintainable system.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Alhareth)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/%D8%A7%D9%84%D8%AD%D8%A7%D8%B1%D8%AB-%D8%A7%D9%84%D8%AF%D8%A7%D9%87%D9%8A%D8%A9-95b4a831a)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0d1117)](https://huggingface.co/Alhareth7790)
+My learning approach is based on understanding concepts from their foundations and then connecting them to real implementations.
 
-</div>
+<div align="center"><br>"PROBLEM → UNDERSTAND → DESIGN → BUILD → MEASURE → IMPROVE"
 
----
+<br></div>My current technical direction sits at the intersection of:
 
-<!-- ═══════════════════════════════════════════════════════════
-     01 — ABOUT — GLASSMORPHISM CARD
-     ═══════════════════════════════════════════════════════════ -->
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Identification%20Card.png" width="30"/> 
-  01 — About
-</h2>
-
-<div align="center">
-
-<table width="90%">
-<tr>
-<td width="100%" align="center">
-
-> **I am an Information Technology student** focused on understanding how software systems and intelligent systems are designed, built, evaluated, and evolved.
-
-My interests have gradually moved beyond writing code toward the engineering questions behind the code:
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-
-| | Engineering Questions |
-|:---:|---|
-| 🔍 | How should a problem be defined before implementation? |
-| 🏗️ | How should requirements become a system architecture? |
-| ⚖️ | Where should complexity exist — and where should it not? |
-| 🌊 | How should data move through a system? |
-| 📊 | How do we measure whether a system actually works? |
-| 🔄 | How can a prototype evolve into a maintainable product? |
-
-</div>
-
-<br>
-
-<div align="center">
-
-```diff
-+ My current technical direction sits at the intersection of:
-```
-
-</div>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="280">
-
-### `Software Engineering`
-### `×`
-### `System Design`
-
-</td>
-<td align="center" width="40">
-
-<br>
-
-</td>
-<td align="center" width="280">
-
-### `Artificial Intelligence`
-### `×`
-### `Computer Vision`
-
-</td>
-<td align="center" width="40">
-
-<br>
-
-</td>
-<td align="center" width="280">
-
-### `Document AI`
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
-
-> [!IMPORTANT]
-> I am more interested in understanding **why a system is designed a certain way** than simply learning another framework.
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/SOFTWARE_ENGINEERING-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Software Engineering"/>
+  <img src="https://img.shields.io/badge/SYSTEM_DESIGN-161B22?style=for-the-badge&logo=diagramsdotnet&logoColor=58A6FF" alt="System Design"/>
+</p><p align="center">
+  <img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-161B22?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="Artificial Intelligence"/>
+  <img src="https://img.shields.io/badge/COMPUTER_VISION-161B22?style=for-the-badge&logo=opencv&logoColor=5C3EE8" alt="Computer Vision"/>
+</p><p align="center">
+  <img src="https://img.shields.io/badge/DOCUMENT_AI-161B22?style=for-the-badge&logo=googledocs&logoColor=4285F4" alt="Document AI"/>
+</p>«[!IMPORTANT]
+I am more interested in understanding why a system is designed a certain way than simply learning another technology.»
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════
-     02 — ENGINEERING DIRECTION — MERMAID DIAGRAM
-     ═══════════════════════════════════════════════════════════ -->
+"02 /" Engineering Direction
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Compass.png" width="30"/> 
-  02 — Engineering Direction
-</h2>
+My development is organized around three connected engineering layers.
 
-<div align="center">
+"SOFTWARE /"
 
-My development is organized around three connected layers.
+How systems are understood, structured and maintained.
 
-</div>
----
+<p>
+  <img src="https://skillicons.dev/icons?i=django,flask,postgres,mysql,git,github" alt="Software engineering tools"/>
+</p>Current areas:
 
-
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#161b22', 'primaryTextColor': '#c9d1d9', 'primaryBorderColor': '#30363d', 'lineColor': '#58a6ff', 'secondaryColor': '#21262d', 'tertiaryColor': '#0d1117'}}}%%
-graph TB
-    subgraph A["🏛️ Software Engineering"]
-        A1[Requirements Engineering]
-        A2[System Analysis]
-        A3[Software Architecture]
-        A4[Modular Design]
-        A5[Separation of Concerns]
-        A6[API & Client/Server]
-        A7[Databases]
-        A8[Git & Workflows]
-    end
-
-    subgraph B["👁️ AI & Computer Vision"]
-        B1[Digital Image Processing]
-        B2[Computer Vision]
-        B3[Object Detection]
-        B4[OCR]
-        B5[Document AI]
-        B6[Synthetic Data]
-        B7[Dataset Curation]
-        B8[Model Training]
-        B9[Evaluation & Error Analysis]
-    end
-
-    subgraph C["⚙️ System Foundations"]
-        C1[Operating Systems]
-        C2[Computer Networks]
-        C3[Algorithms & Data Structures]
-        C4[Programming Languages]
-        C5[Data Flow]
-        C6[Performance]
-        C7[Reliability]
-        C8[Engineering Trade-offs]
-    end
-
-    A ---|"Interconnect"| B
-    B ---|"Interconnect"| C
-    C ---|"Interconnect"| A
-```
+"Requirements Engineering" · "System Analysis" · "Software Architecture" · "Modular Design" · "Backend Development" · "Databases" · "APIs" · "Client / Server"
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════
-     03 — SELECTED PROJECTS
-     ═══════════════════════════════════════════════════════════ -->
+"INTELLIGENCE /"
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="30"/> 
-  03 — Selected Projects
-</h2>
+How data, models and evaluation become part of a useful system.
 
-<div align="center">
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" alt="AI tools"/>
+</p>Current areas:
 
-These are the projects that best represent the direction I am currently developing.
-
-</div>
+"Machine Learning" · "Computer Vision" · "Image Processing" · "Object Detection" · "OCR" · "Dataset Engineering" · "Model Evaluation"
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" width="25"/> 01 / Tibetan OCR & Document AI
+"FOUNDATIONS /"
 
-### `Historical Tibetan Document Recognition`
+The underlying concepts that make larger systems understandable.
 
-**Status:** `Active Research & Development`
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,vscode" alt="System foundations"/>
+</p>Current areas:
 
-A computer vision and OCR research project focused on recognizing **printed Old Tibetan/Uchen documents**.
-
-The project is not treated as simply "training an OCR model". It is being designed as a complete engineering pipeline:
-
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#161b22', 'primaryTextColor': '#c9d1d9', 'primaryBorderColor': '#30363d', 'lineColor': '#58a6ff', 'secondaryColor': '#21262d'}}}%%
-flowchart TD
-    A["📄 Real Documents"] --> B["📥 Data Acquisition & Curation"]
-    B --> C["🎨 Synthetic Data Generation"]
-    C --> D["🔧 Preprocessing"]
-    D --> E["📐 Layout / Line Detection"]
-    E --> F["🔤 Text Recognition"]
-    F --> G["📊 Evaluation"]
-    G --> H["🔍 Error Analysis"]
-    H --> I["🔄 Iterative Improvement"]
-    I -.->|Feedback Loop| B
-```
-
-### Engineering Focus
-
-<div align="center">
-
-| Domain | Capabilities |
-|---|---|
-| Data | Synthetic dataset generation, Real-data curation, Tibetan Uchen typography |
-| Vision | Document preprocessing, Layout and line detection, YOLO-based detection/segmentation |
-| NLP | Sequence recognition, Syllable / grapheme-cluster tokenization |
-| Metrics | CER / WER evaluation, Controlled experimentation, Real-vs-synthetic data analysis |
-
-</div>
-
-### Current Architecture Direction
-
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#161b22', 'primaryTextColor': '#c9d1d9', 'primaryBorderColor': '#30363d', 'lineColor': '#58a6ff', 'secondaryColor': '#21262d'}}}%%
-flowchart TD
-    DOC["📄 DOCUMENT"] --> LAYOUT["📐 Layout / Line Detection<br/>YOLO-based"]
-    LAYOUT --> CROP["✂️ Line Cropping"]
-    CROP --> RECOG["🔤 Text Recognition<br/>CRNN / TrOCR"]
-    RECOG --> TEXT["📝 Tibetan Text"]
-    TEXT --> EVAL["📊 Evaluation & Analysis"]
-
-    style DOC fill:#0d1117,stroke:#58a6ff,stroke-width:3px,color:#fff
-    style LAYOUT fill:#161b22,stroke:#238636,stroke-width:2px
-    style RECOG fill:#161b22,stroke:#a371f7,stroke-width:2px
-    style EVAL fill:#161b22,stroke:#d29922,stroke-width:2px
-```
-
-### Core Technologies
-
-<div align="center">
-
-`Python` · `PyTorch` · `YOLO` · `OpenCV` · `Pillow` · `Albumentations`
-
-</div>
+"Networking" · "Operating Systems" · "Algorithms" · "Data Structures" · "Data Flow" · "Performance" · "Reliability" · "Engineering Trade-offs"
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Video%20Camera.png" width="25"/> 02 / Human Proctoring Assistant
+"03 /" Selected Projects
 
-### `Computer Vision Assistant for Exam Monitoring`
+These projects represent areas where I am turning theory into engineering practice.
 
-**Status:** `Project Development`
+The profile intentionally shows only the engineering identity of each project.
 
-A computer-vision-based system designed to **assist a human proctor** in identifying potentially suspicious examination behavior.
-
-> **Computer Vision detects signals; the human makes the final decision.**
-
-### Initial Detection Scope
-
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#161b22', 'primaryTextColor': '#c9d1d9', 'primaryBorderColor': '#30363d', 'lineColor': '#58a6ff', 'secondaryColor': '#21262d'}}}%%
-flowchart LR
-    CAM["📹 Camera Input"] --> FRAME["⚙️ Frame Processing"]
-    FRAME --> PHONE["📱 Phone Detection"]
-    FRAME --> PAPER["📄 Paper Detection"]
-    FRAME --> HEAD["👤 Head Pose Analysis"]
-    PHONE --> SIG["⚠️ Suspicion Signals"]
-    PAPER --> SIG
-    HEAD --> SIG
-    SIG --> HUMAN["👨‍🏫 Human Review"]
-
-    style CAM fill:#0d1117,stroke:#58a6ff,stroke-width:3px
-    style HUMAN fill:#161b22,stroke:#238636,stroke-width:3px
-    style SIG fill:#161b22,stroke:#d29922,stroke-width:2px
-```
-
-The project therefore combines:
-
-<div align="center">
-
-`Computer Vision` · `Object Detection` · `Image Processing` · `Human-in-the-Loop Systems`
-
-</div>
+Detailed architecture, experiments, datasets, results, metrics and implementation decisions belong inside the individual project repositories.
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="25"/> 03 / Masar — Adaptive Workflow Management
+"PROJECT 01"
 
-### `Smart Adaptive Workflow Management`
+Tibetan OCR & Document AI
 
-A broader software-system concept exploring how organizational workflows can become more structured, observable, and adaptable.
+Historical Tibetan Document Recognition
 
-The project examines ideas around:
+"Status" (https://img.shields.io/badge/STATUS-ACTIVE_RESEARCH-238636?style=flat-square)
+"Domain" (https://img.shields.io/badge/DOMAIN-DOCUMENT_AI-1F6FEB?style=flat-square)
 
-<div align="center">
+A computer-vision and OCR research project focused on recognizing text in historical Tibetan/Uchen document imagery.
 
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#161b22', 'primaryTextColor': '#c9d1d9', 'primaryBorderColor': '#30363d', 'lineColor': '#58a6ff', 'secondaryColor': '#21262d'}}}%%
-mindmap
-  root((Masar<br/>Workflow))
-    Workflow Modeling
-    Process Orchestration
-    Decision Points
-    Human Tasks
-    Automation
-    Process State
-    Business Rules
-    System Integration
-```
+The project is approached as an end-to-end Document AI system, rather than treating OCR as only a model-training problem.
 
-</div>
+The broader engineering problem includes:
 
-> **Do not introduce enterprise-level complexity unless the business problem actually requires it.**
+DOCUMENT
+   │
+   ▼
+DATA ACQUISITION
+   │
+   ▼
+DATASET ENGINEERING
+   │
+   ▼
+IMAGE PROCESSING
+   │
+   ▼
+TEXT / REGION DETECTION
+   │
+   ▼
+TEXT RECOGNITION
+   │
+   ▼
+EVALUATION
+   │
+   ▼
+ERROR ANALYSIS
+   │
+   ▼
+ITERATIVE IMPROVEMENT
 
-This project is therefore also an exploration of the boundary between:
+Built with
 
-<div align="center">
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv" alt="Python PyTorch OpenCV"/>
+</p>"Python" · "PyTorch" · "YOLOv8" · "OpenCV" · "Pillow" · "Albumentations"
 
-`Simple Modular Systems` → `Workflow Engines` → `Process Orchestration Platforms`
+Engineering skills developed
 
-</div>
+<p>
+<img src="https://img.shields.io/badge/Computer_Vision-161B22?style=flat-square&logo=opencv&logoColor=5C3EE8" alt="Computer Vision"/>
+<img src="https://img.shields.io/badge/Document_AI-161B22?style=flat-square&logo=googledocs&logoColor=4285F4" alt="Document AI"/>
+<img src="https://img.shields.io/badge/Object_Detection-161B22?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="Object Detection"/>
+</p><p>
+<img src="https://img.shields.io/badge/Dataset_Engineering-161B22?style=flat-square&logo=databricks&logoColor=FF3621" alt="Dataset Engineering"/>
+<img src="https://img.shields.io/badge/Experiment_Design-161B22?style=flat-square&logo=googlescholar&logoColor=4285F4" alt="Experiment Design"/>
+<img src="https://img.shields.io/badge/Error_Analysis-161B22?style=flat-square&logo=googleanalytics&logoColor=58A6FF" alt="Error Analysis"/>
+</p>What this project is teaching me
 
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="25"/> 04 / Interactive Computer Vision & Image Processing Platform
-
-### `Computer Vision Learning & Experimentation Platform`
-
-A long-term direction for building an educational and experimental platform centered around:
-
-<div align="center">
-
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#161b22', 'primaryTextColor': '#c9d1d9', 'primaryBorderColor': '#30363d', 'lineColor': '#58a6ff', 'secondaryColor': '#21262d'}}}%%
-flowchart TB
-    subgraph KNOWLEDGE["📚 Knowledge"]
-        K1[Concepts]
-        K2[Algorithms]
-        K3[Papers]
-        K4[Books]
-        K5[Tools]
-        K6[Projects]
-    end
-
-    KNOWLEDGE --> LABS["🧪 Interactive Labs"]
-    LABS --> EXP["🔬 Experiments"]
-    EXP --> AI["🤖 AI Assistance"]
-    AI --> PATH["🎯 Learning Path"]
-    PATH -.->|Continuous| KNOWLEDGE
-
-    style KNOWLEDGE fill:#0d1117,stroke:#58a6ff,stroke-width:2px
-    style PATH fill:#161b22,stroke:#238636,stroke-width:2px
-```
-
-</div>
-
-The long-term goal is to connect **knowledge, experimentation, projects, and intelligent learning assistance** within one coherent system.
+- designing AI pipelines instead of isolated models,
+- building and validating datasets,
+- understanding object detection,
+- working with historical-document imagery,
+- image preprocessing,
+- controlled experimentation,
+- separating data problems from model problems,
+- evaluating model behavior,
+- and documenting research decisions.
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════
-     04 — TECHNICAL FOUNDATION
-     ═══════════════════════════════════════════════════════════ -->
+"PROJECT 02"
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="30"/> 
-  04 — Technical Foundation
-</h2>
+Human Proctoring Assistant
 
-<div align="center">
+Computer Vision Assistant for Exam Monitoring
 
-My current stack is intentionally broader than a list of frameworks.
+"Status" (https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-D29922?style=flat-square)
+"Domain" (https://img.shields.io/badge/DOMAIN-COMPUTER_VISION-5C3EE8?style=flat-square)
 
-</div>
+A computer-vision system designed to assist a human proctor, not replace one.
 
-<div align="center">
+The system explores how visual signals can help identify potentially suspicious examination behavior while preserving human judgment as the final decision layer.
 
-| Category | Technologies |
-|---|---|
-| **Languages** | `Python` · `C++` · `C#` · `JavaScript` · `HTML` · `CSS` · `SQL` |
-| **AI / ML** | `PyTorch` · `Scikit-learn` · `Pandas` |
-| **Computer Vision** | `OpenCV` · `YOLO` · `Albumentations` |
-| **Data & Experimentation** | `NumPy` · `Pandas` · `Jupyter` · `Google Colab` |
-| **Software Engineering** | `OOP` · `Data Structures & Algorithms` · `REST Concepts` · `Client/Server Architecture` · `Database Design` |
-| **Development Tools** | `Git` · `GitHub` · `VS Code` · `Visual Studio` |
+CAMERA
+   │
+   ▼
+FRAME PROCESSING
+   │
+   ├── PHONE DETECTION
+   │
+   ├── PAPER DETECTION
+   │
+   └── HEAD / BEHAVIOR SIGNALS
+          │
+          ▼
+    SUSPICION SIGNALS
+          │
+          ▼
+      HUMAN REVIEW
 
-</div>
+«Computer vision produces signals. The human makes the decision.»
 
----
+Built with
 
-<!-- ═══════════════════════════════════════════════════════════
-     05 — WHAT I AM CURRENTLY BUILDING
-     ═══════════════════════════════════════════════════════════ -->
+<p>
+  <img src="https://skillicons.dev/icons?i=python,opencv,pytorch" alt="Computer Vision project technologies"/>
+</p>"Python" · "OpenCV" · "YOLO" · "PyTorch"
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30"/> 
-  05 — What I Am Currently Building
-</h2>
+Engineering skills developed
 
-<div align="center">
+<p>
+<img src="https://img.shields.io/badge/Object_Detection-161B22?style=flat-square&logo=opencv&logoColor=5C3EE8" alt="Object Detection"/>
+<img src="https://img.shields.io/badge/Image_Processing-161B22?style=flat-square&logo=opencv&logoColor=5C3EE8" alt="Image Processing"/>
+<img src="https://img.shields.io/badge/Human_in_the_Loop-161B22?style=flat-square&logo=probot&logoColor=58A6FF" alt="Human in the Loop"/>
+</p>What this project is teaching me
 
-My current learning is not organized around collecting technologies.
-
-It is organized around **capabilities**.
-
-</div>
-
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#161b22', 'primaryTextColor': '#c9d1d9', 'primaryBorderColor': '#30363d', 'lineColor': '#58a6ff', 'secondaryColor': '#21262d'}}}%%
-flowchart TB
-    ENGINEERING["🏛️ ENGINEERING"] --> SE["💻 SOFTWARE ENGINEERING"]
-    ENGINEERING --> AICV["🧠 AI / CV"]
-    ENGINEERING --> SYS["⚙️ SYSTEMS"]
-
-    SE --> SE1[Requirements]
-    SE --> SE2[Architecture]
-    SE --> SE3[APIs]
-    SE --> SE4[Databases]
-    SE --> SE5[Testing]
-
-    AICV --> AI1[Data Pipelines]
-    AICV --> AI2[Image Processing]
-    AICV --> AI3[OCR]
-    AICV --> AI4[Detection]
-    AICV --> AI5[Evaluation]
-
-    SYS --> S1[Networking]
-    SYS --> S2[Operating Systems]
-    SYS --> S3[Performance]
-    SYS --> S4[Reliability]
-    SYS --> S5[Deployment]
-
-    SE1 & SE2 & SE3 & SE4 & SE5 --> COMPLETE["🎯 COMPLETE SYSTEMS"]
-    AI1 & AI2 & AI3 & AI4 & AI5 --> COMPLETE
-    S1 & S2 & S3 & S4 & S5 --> COMPLETE
-
-    style ENGINEERING fill:#0d1117,stroke:#58a6ff,stroke-width:4px,color:#fff
-    style COMPLETE fill:#161b22,stroke:#238636,stroke-width:4px,color:#fff
-    style SE fill:#21262d,stroke:#a371f7,stroke-width:2px
-    style AICV fill:#21262d,stroke:#d29922,stroke-width:2px
-    style SYS fill:#21262d,stroke:#58a6ff,stroke-width:2px
-```
-
-<div align="center">
-
-Current areas of deeper study include:
-
-`Software Architecture` · `System Design` · `Client/Server Architecture` · `APIs and Data Flow` · `Computer Networks` · `Operating Systems` · `Digital Image Processing` · `Computer Vision` · `OCR Architecture` · `Dataset Engineering` · `Model Evaluation` · `Engineering Trade-offs` · `Git-based collaboration`
-
-</div>
+- translating real-world behavior into detectable signals,
+- defining system boundaries,
+- understanding where AI should assist rather than decide,
+- object-detection workflows,
+- real-time visual processing concepts,
+- and designing systems around human oversight.
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════
-     06 — ENGINEERING PRINCIPLES
-     ═══════════════════════════════════════════════════════════ -->
+"PROJECT 03"
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="30"/> 
-  06 — Engineering Principles
-</h2>
+Masar
 
-<div align="center">
+Adaptive Workflow Management
 
-> [!NOTE]
-> These principles describe how I approach engineering problems, not claims that I have already mastered every area listed above.
+"Domain" (https://img.shields.io/badge/DOMAIN-SOFTWARE_SYSTEMS-8957E5?style=flat-square)
+"Focus" (https://img.shields.io/badge/FOCUS-WORKFLOW_DESIGN-1F6FEB?style=flat-square)
 
-</div>
+A software-system concept exploring how organizational workflows can become more structured, observable and adaptable.
 
-<div align="center">
+The project focuses less on adding features and more on understanding the engineering behind workflow systems.
 
-| # | Principle | Philosophy |
-|:---:|:---|:---|
-| `01` | **Understand Before Implementing** | A technically impressive solution is still a bad solution if the problem was misunderstood. |
-| `02` | **Architecture Before Complexity** | Architecture exists to manage complexity. It should not become complexity itself. |
-| `03` | **Evidence Over Assumptions** | Performance claims should come from measurements. Model improvements should come from experiments. Architectural decisions should have reasons. |
-| `04` | **Build Small, Learn Fast** | A system should earn its complexity through real requirements. Start with a coherent foundation and evolve it deliberately. |
-| `05` | **Data Is Part of the System** | In AI projects, the model is only one component. Dataset quality, labeling, preprocessing, evaluation, and error analysis are equally important. |
-| `06` | **Failure Is Information** | A failed experiment is useful when it explains something about the system. |
-| `07` | **Document Decisions** | Knowing **what** was built is not enough. A maintainable system should also preserve **why** it was built that way. |
+BUSINESS PROCESS
+      │
+      ▼
+WORKFLOW MODEL
+      │
+      ├── TASKS
+      ├── STATES
+      ├── RULES
+      ├── DECISIONS
+      └── HUMAN ACTIONS
+              │
+              ▼
+        PROCESS CONTROL
+              │
+              ▼
+          OBSERVABILITY
 
-</div>
+Engineering areas
 
----
+"Workflow Modeling" · "Business Rules" · "Process State" · "Human Tasks" · "Automation" · "Decision Points" · "System Integration"
 
-<!-- ═══════════════════════════════════════════════════════════
-     07 — LEARNING ARCHITECTURE
-     ═══════════════════════════════════════════════════════════ -->
+Skills developed
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="30"/> 
-  07 — Learning Architecture
-</h2>
+<p>
+<img src="https://img.shields.io/badge/System_Analysis-161B22?style=flat-square&logo=diagramsdotnet&logoColor=F08705" alt="System Analysis"/>
+<img src="https://img.shields.io/badge/Workflow_Modeling-161B22?style=flat-square&logo=buffer&logoColor=white" alt="Workflow Modeling"/>
+<img src="https://img.shields.io/badge/Architecture_Thinking-161B22?style=flat-square&logo=githubactions&logoColor=2088FF" alt="Architecture Thinking"/>
+</p>«Do not introduce enterprise-level complexity unless the business problem actually requires it.»
 
-<div align="center">
+An important part of this project is understanding the boundary between:
 
-My long-term learning path is structured around foundations rather than isolated technologies.
+"Simple Modular System"
 
-</div>
+↓
 
-<div align="center">
+"Workflow Engine"
 
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#161b22', 'primaryTextColor': '#c9d1d9', 'primaryBorderColor': '#30363d', 'lineColor': '#58a6ff', 'secondaryColor': '#21262d'}}}%%
-flowchart TB
-    subgraph SE["🏛️ SOFTWARE ENGINEERING"]
-        direction TB
-        SE1[Requirements] --> SE2[Architecture]
-        SE2 --> SE3[Design]
-        SE3 --> SE4[Development]
-        SE4 --> SE5[Testing & Evaluation]
-        SE5 --> SE6[Deployment & Ops]
-    end
+↓
 
-    subgraph AI["🧠 ARTIFICIAL INTELLIGENCE"]
-        direction TB
-        AI1[Data] --> AI2[Computer Vision]
-        AI2 --> AI3[Models]
-        AI3 --> AI4[Experiments]
-        AI4 --> AI5[Evaluation & Errors]
-        AI5 --> AI6[Improvement]
-    end
+"Process Orchestration Platform"
 
-    SE ~~~ AI
-```
-
-</div>
-
-<div align="center">
-
-The goal is not to become dependent on a particular framework.
-
-The goal is to understand the principles well enough to **learn new tools quickly and make sound engineering decisions**.
-
-</div>
+and determining when each level of complexity is justified.
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════
-     08 — SELECTED AREAS OF PRACTICE
-     ═══════════════════════════════════════════════════════════ -->
+"PROJECT 04"
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Target.png" width="30"/> 
-  08 — Selected Areas of Practice
-</h2>
+Interactive Computer Vision Platform
 
-<div align="center">
+Computer Vision Learning & Experimentation Environment
 
-| Area | Current Direction |
-|:---|:---|
-| **Software Engineering** | System design, architecture, requirements, modularity |
-| **Artificial Intelligence** | Machine learning, model evaluation, experimentation |
-| **Computer Vision** | Detection, preprocessing, document analysis |
-| **OCR** | Recognition pipelines, synthetic data, evaluation |
-| **Image Processing** | Enhancement, filtering, segmentation, feature extraction |
-| **Data Engineering** | Dataset construction, preprocessing, curation |
-| **Systems** | Client/server, networking, operating-system foundations |
-| **Collaboration** | Git, GitHub, structured workflows and documentation |
+"Domain" (https://img.shields.io/badge/DOMAIN-EDTECH_%C3%97_COMPUTER_VISION-1F6FEB?style=flat-square)
+"Direction" (https://img.shields.io/badge/DIRECTION-LONG_TERM-8957E5?style=flat-square)
 
-</div>
+A long-term platform concept for connecting computer-vision knowledge, interactive experimentation and project-based learning.
+
+KNOWLEDGE
+   │
+   ├── Concepts
+   ├── Algorithms
+   ├── Papers
+   ├── Books
+   └── Tools
+        │
+        ▼
+INTERACTIVE LABS
+        │
+        ▼
+EXPERIMENTS
+        │
+        ▼
+AI ASSISTANCE
+        │
+        ▼
+PERSONALIZED LEARNING
+
+Engineering skills being explored
+
+<p>
+<img src="https://img.shields.io/badge/Educational_System_Design-161B22?style=flat-square&logo=bookstack&logoColor=58A6FF" alt="Educational Systems"/>
+<img src="https://img.shields.io/badge/Knowledge_Architecture-161B22?style=flat-square&logo=obsidian&logoColor=A88BFA" alt="Knowledge Architecture"/>
+<img src="https://img.shields.io/badge/Interactive_Learning-161B22?style=flat-square&logo=jupyter&logoColor=F37626" alt="Interactive Learning"/>
+</p>The long-term objective is to connect:
+
+knowledge → experimentation → projects → intelligent assistance
+
+inside one coherent learning system.
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════
-     09 — BEYOND TOOLS
-     ═══════════════════════════════════════════════════════════ -->
+"04 /" Technical Foundation
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" width="30"/> 
-  09 — Beyond Tools
-</h2>
+This section represents the tools and technologies that currently support my engineering work.
 
-<div align="center">
+Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cs,cpp,js,html,css" alt="Programming languages"/>
+</p><p align="center">
+  <code>Python</code>
+  <code>C#</code>
+  <code>C++</code>
+  <code>JavaScript</code>
+  <code>HTML</code>
+  <code>CSS</code>
+  <code>SQL</code>
+</p>---
+
+AI & Machine Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="Machine Learning"/>
+</p><p align="center">
+  <code>PyTorch</code>
+  <code>Scikit-learn</code>
+  <code>Pandas</code>
+  <code>NumPy</code>
+  <code>XGBoost</code>
+</p>---
+
+Computer Vision
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=opencv,pytorch" alt="Computer Vision"/>
+</p><p align="center">
+  <code>OpenCV</code>
+  <code>YOLOv8</code>
+  <code>Albumentations</code>
+  <code>Pillow</code>
+  <code>Image Processing</code>
+</p>---
+
+Backend & Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,flask,postgres,mysql" alt="Backend and databases"/>
+</p><p align="center">
+  <code>Django</code>
+  <code>Flask</code>
+  <code>PostgreSQL</code>
+  <code>MySQL</code>
+  <code>REST</code>
+</p>---
+
+Engineering Environment
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,visualstudio" alt="Engineering tools"/>
+</p><p align="center">
+  <code>Git</code>
+  <code>GitHub</code>
+  <code>Docker</code>
+  <code>Linux</code>
+  <code>VS Code</code>
+  <code>Visual Studio</code>
+</p>---
+
+Experimentation
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch" alt="Experimentation"/>
+</p><p align="center">
+  <code>Jupyter Notebook</code>
+  <code>Google Colab</code>
+  <code>Experiment Tracking</code>
+  <code>Error Analysis</code>
+  <code>Technical Documentation</code>
+</p>---
+
+"05 /" Capabilities I Am Building
+
+My learning is organized around capabilities, not around collecting technologies.
+
+Software Engineering
+
+Problem Analysis
+      ↓
+Requirements
+      ↓
+System Modeling
+      ↓
+Architecture
+      ↓
+Implementation
+      ↓
+Testing
+      ↓
+Documentation
+      ↓
+Iteration
+
+I am strengthening:
+
+- requirements engineering,
+- software architecture,
+- modular design,
+- separation of concerns,
+- backend development,
+- databases,
+- APIs,
+- testing,
+- version control,
+- and project documentation.
+
+---
+
+AI Engineering
+
+PROBLEM
+   ↓
+DATA
+   ↓
+PREPROCESSING
+   ↓
+MODEL
+   ↓
+TRAINING
+   ↓
+EVALUATION
+   ↓
+ERROR ANALYSIS
+   ↓
+IMPROVEMENT
+
+I am strengthening:
+
+- dataset design,
+- preprocessing,
+- computer vision,
+- image processing,
+- object detection,
+- OCR,
+- experimentation,
+- model evaluation,
+- and reproducibility.
+
+---
+
+System Foundations
+
+I continue developing understanding of:
+
+- computer networking,
+- client/server architecture,
+- operating systems,
+- data structures,
+- algorithms,
+- performance,
+- reliability,
+- containers,
+- deployment,
+- and engineering trade-offs.
+
+---
+
+"06 /" Engineering Principles
+
+«[!NOTE]
+These principles describe how I approach engineering problems. They are not claims that I have already mastered every field represented in this profile.»
+
+"01" Understand Before Implementing
+
+A technically impressive implementation is still a poor solution when the original problem was misunderstood.
+
+Before selecting technologies, I want to understand:
+
+- the actual problem,
+- the users,
+- the constraints,
+- the expected behavior,
+- and the definition of success.
+
+---
+
+"02" Architecture Before Complexity
+
+Architecture should help manage complexity.
+
+It should not become complexity itself.
+
+I prefer starting with the simplest architecture that preserves clear boundaries and can evolve when requirements justify additional complexity.
+
+---
+
+"03" Evidence Over Assumptions
+
+Engineering decisions should have reasons.
+
+Performance claims should have measurements.
+
+AI improvements should have controlled experiments.
+
+Architectural choices should have identifiable trade-offs.
+
+---
+
+"04" Build Small, Learn Fast
+
+A small system that can be understood and evaluated often teaches more than a large system built too early.
+
+My preferred progression is:
+
+SMALL
+ ↓
+VALIDATE
+ ↓
+UNDERSTAND
+ ↓
+IMPROVE
+ ↓
+SCALE
+
+---
+
+"05" Data Is Part of the System
+
+In AI systems, the model is only one component.
+
+Dataset quality, labeling, preprocessing, evaluation and error analysis can determine whether a model learns anything useful at all.
+
+---
+
+"06" Failure Is Information
+
+A failed experiment can still be valuable when it reveals:
+
+- a bad assumption,
+- incorrect data,
+- weak architecture,
+- unsuitable evaluation,
+- or an incomplete understanding of the problem.
+
+---
+
+"07" Document Decisions
+
+Documentation should preserve more than implementation instructions.
+
+Important technical decisions should answer:
+
+WHAT WAS CHOSEN?
+        ↓
+WHY?
+        ↓
+WHAT ALTERNATIVES EXISTED?
+        ↓
+WHAT TRADE-OFFS WERE ACCEPTED?
+
+---
+
+"07 /" Learning Architecture
+
+My long-term learning path is based on connecting fields instead of treating them as independent subjects.
+
+                         ENGINEERING
+                              │
+             ┌────────────────┴────────────────┐
+             │                                 │
+             ▼                                 ▼
+     SOFTWARE SYSTEMS                  INTELLIGENT SYSTEMS
+             │                                 │
+     ┌───────┼────────┐               ┌────────┼────────┐
+     │       │        │               │        │        │
+ Requirements │    Databases        Data   Computer   Models
+             │                           Vision
+       Architecture                       │
+             │                            │
+          Backend                      Evaluation
+             │                            │
+           APIs                       Experiments
+             │                            │
+             └──────────────┬─────────────┘
+                            │
+                            ▼
+                      COMPLETE SYSTEM
+                            │
+                 ┌──────────┼──────────┐
+                 │          │          │
+              Reliable   Measurable  Maintainable
+
+The goal is not to depend on one framework.
+
+The goal is to understand principles deeply enough to:
+
+learn new technologies quickly, evaluate them intelligently, and choose them for the right reasons.
+
+---
+
+"08 /" Areas of Practice
+
+Software Engineering
+
+"Requirements" · "Architecture" · "System Design" · "Modularity" · "Backend"
+
+Artificial Intelligence
+
+"Machine Learning" · "Experimentation" · "Model Evaluation"
+
+Computer Vision
+
+"Detection" · "Image Processing" · "Document Analysis"
+
+Document AI
+
+"OCR" · "Synthetic Data" · "Recognition Pipelines"
+
+Data Engineering
+
+"Dataset Construction" · "Preprocessing" · "Curation"
+
+Systems
+
+"Client / Server" · "Networking" · "Operating Systems"
+
+Engineering Workflow
+
+"Git" · "GitHub" · "Documentation" · "Structured Development"
+
+---
+
+"09 /" Current Learning
+
+I deliberately separate technologies I use from areas I am still developing.
+
+Currently deepening
+
+- Software Architecture
+- Requirements Engineering
+- Backend Engineering
+- Database Design
+- Computer Vision
+- Digital Image Processing
+- OCR Architecture
+- Dataset Engineering
+- Model Evaluation
+- Client / Server Systems
+- Networking
+- Technical Documentation
+- Git-based development workflows
+
+Currently exploring
+
+- containerized development,
+- deployment workflows,
+- production AI systems,
+- scalable backend architecture,
+- intelligent decision-support systems,
+- research-oriented software engineering,
+- and human-centered AI systems.
+
+---
+
+"10 /" GitHub Signal
+
+GitHub activity is useful context, but I do not consider commit counts or streaks a substitute for engineering quality.
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=Alhareith&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api?username=Alhareith&show_icons=true&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=57606A&icon_color=0969DA&rank_icon=github"
+    />
+    <img
+      width="600"
+      src="https://github-readme-stats.vercel.app/api?username=Alhareith&show_icons=true&hide_border=true"
+      alt="GitHub Statistics"
+    />
+  </picture>
+</p><p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Alhareith&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&langs_count=8"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Alhareith&layout=compact&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=57606A&langs_count=8"
+    />
+    <img
+      width="600"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alhareith&layout=compact&hide_border=true"
+      alt="Top Languages"
+    />
+  </picture>
+</p>«[!NOTE]
+GitHub language statistics describe code distribution across repositories. They do not measure proficiency.»
+
+---
+
+"11 /" Long-Term Direction
+
+My long-term direction is the intersection between:
+
+<div align="center">SOFTWARE ENGINEERING
+
+"×"
+
+ARTIFICIAL INTELLIGENCE
+
+</div>I am particularly interested in systems where intelligent models are not isolated notebooks, but components inside larger software architectures.
+
+USER / BUSINESS PROBLEM
+          │
+          ▼
+   SOFTWARE SYSTEM
+          │
+    ┌─────┼──────────────┐
+    │     │              │
+    ▼     ▼              ▼
+ BACKEND  DATA       AI COMPONENT
+    │     │              │
+    └─────┼──────────────┘
+          │
+          ▼
+      EVALUATION
+          │
+          ▼
+      IMPROVEMENT
+
+That means understanding both sides:
+
+how intelligent models work
+
+and
+
+how reliable software systems are engineered around them.
+
+---
+
+"12 /" Beyond Tools
+
+I do not want my technical identity to be defined by a list of frameworks.
 
 Frameworks change.
 
 Libraries change.
 
-Model architectures change.
+Models change.
 
-**The engineering fundamentals remain.**
+Programming languages evolve.
 
-</div>
+The capabilities I want to keep developing are more durable:
 
-<div align="center">
+- understanding unfamiliar systems,
+- analyzing complex problems,
+- breaking them into smaller components,
+- designing before implementing,
+- evaluating trade-offs,
+- identifying weak assumptions,
+- testing hypotheses,
+- reading technical documentation,
+- communicating technical decisions,
+- documenting reasoning,
+- and finishing complete systems.
 
-What I am deliberately trying to build is the ability to:
+<div align="center"><br>"TOOLS CHANGE."
 
-</div>
+"ENGINEERING REASONING COMPOUNDS."
 
-<div align="center">
+<br></div>---
 
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#161b22', 'primaryTextColor': '#c9d1d9', 'primaryBorderColor': '#30363d', 'lineColor': '#58a6ff', 'secondaryColor': '#21262d'}}}%%
-flowchart LR
-    A["❓ Decompose ambiguous problems"] --> B["📝 Discover and formalize requirements"]
-    B --> C["🏗️ Design systems before implementing them"]
-    C --> D["⚖️ Understand trade-offs instead of following trends"]
-    D --> E["🔬 Build experiments that answer specific questions"]
-    E --> F["📊 Evaluate systems with meaningful metrics"]
-    F --> G["🔍 Analyze failures instead of hiding them"]
-    G --> H["📄 Document architectural decisions"]
-    H --> I["🚀 Turn knowledge into working systems"]
+"13 /" Connect
 
-    style A fill:#0d1117,stroke:#58a6ff,stroke-width:2px
-    style I fill:#161b22,stroke:#238636,stroke-width:3px
-```
+<div align="center">Interested in software systems, AI, computer vision and engineering discussions.
 
-</div>
+<br><a href="https://github.com/Alhareith">
+  <img src="https://img.shields.io/badge/GITHUB-Alhareith-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a><a href="https://www.linkedin.com/in/%D8%A7%D9%84%D8%AD%D8%A7%D8%B1%D8%AB-%D8%A7%D9%84%D8%AF%D8%A7%D9%87%D9%8A%D8%A9-95b4a831a">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a><a href="https://huggingface.co/Alhareth7790">
+  <img src="https://img.shields.io/badge/HUGGING_FACE-Alhareth7790-111111?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face"/>
+</a><a href="mailto:alhareithaldahia@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a><br><br><br>
 
-<div align="center">
+<sub>ALHARETH AL-DAHIYA · ENGINEERING PROFILE</sub>
 
-> [!TIP]
-> The real objective is not to know more technologies.
->
-> It is to become better at **learning, designing, building, evaluating, and improving systems**.
+<br>"Understand deeply · Design deliberately · Build carefully · Measure honestly"
 
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════
-     10 — LONG-TERM DIRECTION
-     ═══════════════════════════════════════════════════════════ -->
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="30"/> 
-  10 — Long-Term Direction
-</h2>
-
-<div align="center">
-
-My long-term direction is toward **software and intelligent systems engineering**, with particular interest in:
-
-</div>
-
-<div align="center">
-
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#161b22', 'primaryTextColor': '#c9d1d9', 'primaryBorderColor': '#30363d', 'lineColor': '#58a6ff', 'secondaryColor': '#21262d'}}}%%
-flowchart TB
-    A["💻 Software Engineering"] --> B["🏗️ System Architecture"]
-    B --> C["🧠 Artificial Intelligence"]
-    C --> D["👁️ Computer Vision"]
-    D --> E["📄 Document AI"]
-    E --> F["🔬 Research & Experimentation"]
-
-    style A fill:#0d1117,stroke:#58a6ff,stroke-width:3px
-    style F fill:#161b22,stroke:#238636,stroke-width:3px
-```
-
-</div>
-
-<div align="center">
-
-I am especially interested in problems where software engineering and AI meet:
-
-`Intelligent document processing` · `OCR systems` · `Computer vision pipelines` · `Human-in-the-loop systems` · `Data-centric AI` · `Knowledge and learning systems` · `Scalable software platforms`
-
-</div>
-
-<div align="center">
-
-The objective is not to build projects for the sake of having projects.
-
-It is to use projects as increasingly difficult engineering problems through which deeper understanding is developed.
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════
-     FOOTER — CINEMATIC CLOSING
-     ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:30363d,25:21262d,50:161b22,75:0d1117,100:0d1117&height=150&section=footer"/>
-
-<br>
-
-### Understand → Design → Build → Measure → Improve
-
-<br>
-
-**Alhareth Al-Dahiya**
-
-*Software Engineering · AI · Computer Vision · Systems*
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alhareth)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D8%A7%D9%84%D8%AD%D8%A7%D8%B1%D8%AB-%D8%A7%D9%84%D8%AF%D8%A7%D9%87%D9%8A%D8%A9-95b4a831a)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Alhareth7790)
-
-</div>
+<br><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,30:1F6FEB,70:161B22,100:0D1117&height=120&section=footer" alt="Footer"/></div>
