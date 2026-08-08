@@ -19,4 +19,4 @@ jobs:
         with:
           # ضع رابط الـ RSS الخاص بمدونتك هنا
           # مثال لـ dev.to: https://dev.to/feed/alhareith
-          feed_list: "https://dev.to/alhareith"
+          feed_list: "https://dev.to/feed/alhareith"
