@@ -203,7 +203,7 @@ flowchart LR
 > Understand before implementing.»
 
 ---
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Alhareith&theme=tokyonight&background=0d1117&fire=e3b341&ring=30363d&sideLabels=true)](https://git.io/streak-stats)
 <div align="center">
 
 Build systems. Study failures. Improve continuously.
