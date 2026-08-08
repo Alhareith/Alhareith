@@ -163,7 +163,7 @@ flowchart LR
 ---
 ## 📝 Latest Articles
 <!-- BLOG-POST-LIST:START -->
-<!-- سيتم استبدال هذا الجزء تلقائياً -->
+- [Building Intelligent Building Intelligent Systems from First Principles: Why Architecture Beats Complexity](https://dev.to/alhareith/building-intelligent-building-intelligent-systems-from-first-principles-why-architecture-beats-22h9)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tech Stack
