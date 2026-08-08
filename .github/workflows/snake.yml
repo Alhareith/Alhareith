@@ -1,0 +1,38 @@
+name: Generate Snake
+
+# تحديد متى يعمل هذا الروبوت
+on:
+  schedule:
+    - cron: "0 0 * * *" # يتم التحديث تلقائياً كل يوم منتصف الليل
+  workflow_dispatch: # يتيح لك تشغيله يدوياً متى شئت من تبويب Actions
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      # 1. سحب محتوى المستودع
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      # 2. توليد ملف الثعبان (Snake SVG)
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      
+      # 3. رفع الملف الناتج إلى فرع (Branch) مستقل يسمى output
+      - name: Push Snake to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
