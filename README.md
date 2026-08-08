@@ -206,6 +206,13 @@ flowchart LR
 [![GitHub Streak](https://streak-stats.demolab.com?user=Alhareith&theme=tokyonight&background=0d1117&fire=e3b341&ring=30363d&sideLabels=true)](https://git.io/streak-stats)
 <div align="center">
 
+---
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=tokyonight&username=username)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+  <img src="https://github.com/Alhareith/Alhareith/raw/master/metrics.svg" alt="Metrics">
+</p>
+
 Build systems. Study failures. Improve continuously.
 
 
@@ -221,3 +228,6 @@ src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,40:1F6FEB,
 />
 
 </div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Alhareith/Alhareith/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
