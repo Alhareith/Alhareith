@@ -7,9 +7,11 @@
 src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:161B22,75:1F6FEB,100:58A6FF&height=220&section=header&text=ALHARETH%20AL-DAHIYA&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineering%20%C2%B7%20AI%20%C2%B7%20Computer%20Vision&descAlignY=51"
 alt="Alhareth Al-Dahiya"/>
 
-Information Technology Student
+### Information Technology Student · Software Engineering · AI
 
-"Software Engineering" · "Artificial Intelligence" · "Computer Vision"
+I am an Information Technology student who builds practical projects in **software engineering**, **artificial intelligence**, and **computer vision**. I enjoy turning real problems into clear, testable, and useful systems.
+
+> Open to internships, junior opportunities, and meaningful collaborations in software engineering and applied AI.
 
 <img
 src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=40&lines=Understand+%E2%86%92+Design+%E2%86%92+Build+%E2%86%92+Measure+%E2%86%92+Improve"
@@ -29,15 +31,22 @@ alt="Engineering Philosophy"
 <a href="mailto:alhareithaldahia@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+
+<br><br>
+<a href="https://alharethprofilo.netlify.app/" target="_blank">
+  <img src="./assets/visit-portfolio.svg" alt="Visit Alhareth Personal Portfolio" width="900">
+</a>
 </div>
 
 ---
 
-# About Me
+## About Me
 
-I am an Information Technology student interested in building software and intelligent systems from first principles.
+I am a fourth-level Bachelor of Information Technology student with a strong interest in programming, artificial intelligence, and practical system development.
 
-My current focus:
+My work includes personal projects and two team projects. **Fraud Detection with synthetic data** and **Fitra** are the team projects in this profile. The synthetic-data Fraud Detection project was completed by a five-person team, and I was responsible for the project, fraud-detection work, and results analysis. In Fitra, I was responsible for the project and my assigned part.
+
+My **Fraud Detection project with real financial data** is a separate personal project. It is listed independently from the team project and is hosted under **HackingField**.
 
 <p align="center">
 <img src="https://img.shields.io/badge/Software_Engineering-161B22?style=for-the-badge&logo=github&logoColor=58A6FF">
@@ -49,6 +58,8 @@ My current focus:
 ---
 
 ## Engineering Process
+
+I follow a simple process: understand the problem, design a clear solution, build it, measure the result, and improve it.
 
 ```mermaid
 flowchart LR
@@ -64,103 +75,82 @@ flowchart LR
 
 ## Engineering Areas
 
-<table>
-<tr>
-<td align="center" width="33%">
-
 ### Software
 
 <img src="https://skillicons.dev/icons?i=django,flask,postgres,mysql" />
 
-- Backend
-- Architecture
-- Databases
-- APIs
-
-</td>
-<td align="center" width="33%">
+Backend · Architecture · Databases · APIs
 
 ### AI & Vision
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
 
-- Machine Learning
-- Computer Vision
-- YOLO
-- OCR
-
-</td>
-<td align="center" width="33%">
+Machine Learning · Computer Vision · YOLO · OCR
 
 ### Engineering Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
 
-- Git
-- Docker
-- Linux
-- Experimentation
-
-</td>
-</tr>
-</table>
+Git · Docker · Linux · Experimentation
 
 ---
 
 ## Selected Projects
 
-### 01 · Historical Document AI
+### 01 · Fraud Detection — Real Financial Transactions
 
-Computer vision pipeline for detecting and analyzing historical text regions.
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,opencv" height="28"/>
-
-Keywords: YOLOv8 · Synthetic Data · Object Detection · Image Processing
-
-```mermaid
-flowchart LR
-    A[Documents] --> B[Dataset]
-    B --> C[Preprocessing]
-    C --> D[Detection]
-    D --> E[Evaluation]
-    E --> F[Improvement]
-```
-
----
-
-### 02 · Human Proctoring Assistant
-
-Computer vision system that generates signals to assist human examination monitoring.
+**Personal project.** A system for analyzing real financial transactions and identifying possible fraud patterns. The work focuses on feature engineering, model development, and results analysis. Hosted under **HackingField**.
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,opencv" height="28"/>
 
-Keywords: Real-Time Vision · YOLO · Human-in-the-Loop
+Real Data · Feature Engineering · Classification · Evaluation
 
-```mermaid
-flowchart LR
-    A[Video] --> B[Vision Models]
-    B --> C[Risk Signals]
-    C --> D[Human Review]
-```
+### 02 · Fraud Detection — PaySim Transactions
+
+**Team project.** A five-person team project for detecting fraud in synthetic PaySim transactions. I was responsible for the project, the fraud-detection work, and the analysis of the results.
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,opencv" height="28"/>
+
+Synthetic Data · XGBoost · Imbalanced Learning · SHAP
+
+### 03 · Fitra
+
+**Team project.** A collaborative project where I was responsible for the project and my assigned development work.
+
+### 04 · Arabic News Classifier
+
+An Arabic news classifier built with natural language processing and Transformer models.
+
+<img src="https://skillicons.dev/icons?i=python,pytorch" height="28"/>
+
+Arabic NLP · CAMeLBERT · Text Classification
+
+### 05 · Historical Document AI
+
+A computer-vision pipeline for detecting text regions in historical documents.
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,opencv" height="28"/>
+
+YOLOv8 · Synthetic Data · OCR · Image Processing
+
+### 06 · Manuscript Doctor
+
+A web application for processing and improving the readability of Arabic document images.
+
+<img src="https://skillicons.dev/icons?i=python,flask,opencv,js" height="28"/>
+
+Flask · OpenCV · NumPy · JavaScript
+
+### 07 · TechCom Network
+
+A three-tier enterprise network lab built with Cisco Packet Tracer.
+
+<img src="https://skillicons.dev/icons?i=cisco" height="28"/>
+
+HSRP · OSPF · BGP · VLANs · VoIP
 
 ---
 
-### 03 · Adaptive Workflow Engine
-
-Software architecture concept for state-driven organizational workflows.
-
-Keywords: System Design · State Machines · Business Rules · Workflow Modeling
-
-```mermaid
-flowchart LR
-    A[Process] --> B[Workflow Engine]
-    B --> C[States]
-    B --> D[Tasks]
-    B --> E[Rules]
-    C & D & E --> F[Execution]
-```
-
----
 ## 📝 Latest Articles
 <!-- BLOG-POST-LIST:START -->
 - [Building Intelligent Building Intelligent Systems from First Principles: Why Architecture Beats Complexity](https://dev.to/alhareith/building-intelligent-building-intelligent-systems-from-first-principles-why-architecture-beats-22h9)
@@ -193,6 +183,19 @@ flowchart LR
 
 ---
 
+## Connect Me
+
+<div align="center">
+<a href="https://github.com/Alhareith"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/%D8%A7%D9%84%D8%AD%D8%A7%D8%B1%D8%AB-%D8%A7%D9%84%D8%AF%D8%A7%D9%87%D9%8A%D8%A9-95b4a831a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://huggingface.co/Alhareth7790"><img src="https://img.shields.io/badge/HuggingFace-111111?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face"></a>
+<a href="mailto:alhareithaldahia@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://t.me/devhareth"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+<a href="https://www.facebook.com/alharth.aldahyt/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+</div>
+
+---
+
 ## How I Think
 
 1. Problem
@@ -202,9 +205,9 @@ flowchart LR
 5. Measure
 6. Improve
 
-> «Simple architecture before unnecessary complexity.
+> "Simple architecture before unnecessary complexity.
 > Evidence before assumptions.
-> Understand before implementing.»
+> Understand before implementing."
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Alhareith&theme=tokyonight&background=0d1117&fire=e3b341&ring=30363d&sideLabels=true)](https://git.io/streak-stats)
 
@@ -220,13 +223,7 @@ flowchart LR
   <img src="https://komarev.com/ghpvc/?username=Alhareith&color=blueviolet&style=flat-square&label=Profile+Views" alt="Visitor Count" />
 </p>
 
-
-
-
-
-
 Build systems. Study failures. Improve continuously.
-
 
 Eng. Alhareth Al-Dahiya
 
@@ -240,5 +237,3 @@ src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,40:1F6FEB,
 />
 
 </div>
-
-

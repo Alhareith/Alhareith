@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="300" viewBox="0 0 1200 300" role="link" aria-label="Visit Alhareth personal portfolio">
+  <title>Visit Alhareth Personal Portfolio</title>
+  <desc>A premium metallic 3D button that opens the personal portfolio website.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05070b"/>
+      <stop offset="0.5" stop-color="#111722"/>
+      <stop offset="1" stop-color="#020307"/>
+    </linearGradient>
+    <linearGradient id="silver" x1="0" y1="0" x2="0.9" y2="1">
+      <stop offset="0" stop-color="#f8fbff"/>
+      <stop offset="0.18" stop-color="#aeb8c5"/>
+      <stop offset="0.38" stop-color="#ffffff"/>
+      <stop offset="0.58" stop-color="#6f7a88"/>
+      <stop offset="0.8" stop-color="#d9e0e8"/>
+      <stop offset="1" stop-color="#596473"/>
+    </linearGradient>
+    <linearGradient id="silverDeep" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#697585"/>
+      <stop offset="0.45" stop-color="#202936"/>
+      <stop offset="1" stop-color="#0b1018"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0.8">
+      <stop offset="0" stop-color="#6b4510"/>
+      <stop offset="0.22" stop-color="#f6d487"/>
+      <stop offset="0.48" stop-color="#fff2b5"/>
+      <stop offset="0.72" stop-color="#bf8a2e"/>
+      <stop offset="1" stop-color="#6c4310"/>
+    </linearGradient>
+    <linearGradient id="button" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3a4655"/>
+      <stop offset="0.45" stop-color="#141b25"/>
+      <stop offset="1" stop-color="#070a10"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="35%" r="70%">
+      <stop offset="0" stop-color="#58a6ff" stop-opacity="0.22"/>
+      <stop offset="0.55" stop-color="#1f6feb" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-20%" y="-30%" width="150%" height="180%">
+      <feDropShadow dx="0" dy="18" stdDeviation="14" flood-color="#000000" flood-opacity="0.72"/>
+    </filter>
+    <filter id="softGlow" x="-30%" y="-50%" width="160%" height="200%">
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="textShadow" x="-20%" y="-40%" width="150%" height="190%">
+      <feDropShadow dx="0" dy="3" stdDeviation="2" flood-color="#000000" flood-opacity="0.9"/>
+    </filter>
+    <clipPath id="cardClip"><rect x="40" y="36" width="1120" height="228" rx="44"/></clipPath>
+  </defs>
+
+  <a href="https://alharethprofilo.netlify.app/" xlink:href="https://alharethprofilo.netlify.app/" target="_blank">
+    <rect x="8" y="8" width="1184" height="284" rx="54" fill="#000000" opacity="0.55"/>
+    <rect x="20" y="20" width="1160" height="260" rx="50" fill="url(#bg)" stroke="#273342" stroke-width="2"/>
+    <rect x="40" y="36" width="1120" height="228" rx="44" fill="url(#glow)"/>
+
+    <!-- warm reflected light -->
+    <path d="M90 224 C280 82 430 48 650 54 C835 59 1000 111 1115 197 L1115 244 L90 244 Z" fill="#d7a84c" opacity="0.07" clip-path="url(#cardClip)"/>
+    <path d="M40 70 C240 18 392 30 520 74 C655 121 812 125 1160 55 L1160 36 L40 36 Z" fill="#ffffff" opacity="0.05" clip-path="url(#cardClip)"/>
+
+    <!-- 3D extruded frame -->
+    <rect x="64" y="68" width="1072" height="166" rx="34" fill="#070a0f" stroke="#07090d" stroke-width="12" filter="url(#shadow)"/>
+    <rect x="56" y="58" width="1072" height="166" rx="34" fill="url(#silverDeep)" stroke="#0b1017" stroke-width="6"/>
+    <rect x="48" y="48" width="1072" height="166" rx="34" fill="url(#silver)" stroke="url(#gold)" stroke-width="4"/>
+    <rect x="60" y="60" width="1048" height="142" rx="26" fill="url(#button)" stroke="#eef3f8" stroke-opacity="0.5" stroke-width="2"/>
+    <rect x="72" y="72" width="1024" height="118" rx="20" fill="none" stroke="#000000" stroke-opacity="0.75" stroke-width="2"/>
+
+    <!-- premium emblem -->
+    <g transform="translate(105 83)" filter="url(#softGlow)">
+      <circle cx="49" cy="49" r="39" fill="#0a0e15" stroke="url(#gold)" stroke-width="3"/>
+      <path d="M49 17 L57 39 L80 39 L61 53 L68 76 L49 62 L30 76 L37 53 L18 39 L41 39 Z" fill="url(#gold)" opacity="0.95"/>
+      <circle cx="49" cy="49" r="8" fill="#ffffff" opacity="0.92"/>
+    </g>
+
+    <!-- hierarchy -->
+    <text x="215" y="111" fill="#d4af5b" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="5">ALHARETH · IT &amp; AI</text>
+    <text x="210" y="157" fill="url(#silver)" font-family="DejaVu Sans, Arial, sans-serif" font-size="34" font-weight="800" letter-spacing="2" filter="url(#textShadow)">VISIT MY PORTFOLIO</text>
+    <text x="215" y="183" fill="#aeb8c5" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" letter-spacing="2">SOFTWARE ENGINEERING · ARTIFICIAL INTELLIGENCE · COMPUTER VISION</text>
+
+    <!-- CTA -->
+    <g transform="translate(900 92)">
+      <rect x="4" y="7" width="158" height="60" rx="30" fill="#05070b" opacity="0.85"/>
+      <rect x="0" y="0" width="158" height="60" rx="30" fill="url(#gold)" stroke="#fff1bd" stroke-opacity="0.55" stroke-width="2"/>
+      <rect x="7" y="7" width="144" height="46" rx="23" fill="#111722" stroke="#0a0d13" stroke-width="2"/>
+      <text x="75" y="37" text-anchor="middle" fill="#f8dc91" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.2">OPEN WEBSITE</text>
+      <path d="M132 28 H143 M138 23 L143 28 L138 33" fill="none" stroke="#f8dc91" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+
+    <!-- highlight and bevel accents -->
+    <path d="M84 62 H1067" stroke="#ffffff" stroke-opacity="0.8" stroke-width="2" stroke-linecap="round"/>
+    <path d="M91 205 H1053" stroke="#020307" stroke-opacity="0.8" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="1090" cy="49" r="3" fill="#f9df97" filter="url(#softGlow)"/>
+    <circle cx="1108" cy="49" r="2" fill="#ffffff" opacity="0.8"/>
+  </a>
+</svg>
