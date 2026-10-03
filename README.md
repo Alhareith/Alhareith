@@ -77,16 +77,19 @@ flowchart LR
 
 ### Software
 
+<img src="https://skillicons.dev/icons?i=django,flask,postgres,mysql" />
 
 Backend · Architecture · Databases · APIs
 
 ### AI & Vision
 
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
 
 Machine Learning · Computer Vision · YOLO · OCR
 
 ### Engineering Tools
 
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
 
 Git · Docker · Linux · Experimentation
 
@@ -98,6 +101,7 @@ Git · Docker · Linux · Experimentation
 
 **Personal project.** A system for analyzing real financial transactions and identifying possible fraud patterns. The work focuses on feature engineering, model development, and results analysis. Hosted under **HackingField**.
 
+<img src="https://skillicons.dev/icons?i=python,pytorch,opencv" height="28"/>
 
 Real Data · Feature Engineering · Classification · Evaluation
 
@@ -105,6 +109,7 @@ Real Data · Feature Engineering · Classification · Evaluation
 
 **Team project.** A five-person team project for detecting fraud in synthetic PaySim transactions. I was responsible for the project, the fraud-detection work, and the analysis of the results.
 
+<img src="https://skillicons.dev/icons?i=python,pytorch,opencv" height="28"/>
 
 Synthetic Data · XGBoost · Imbalanced Learning · SHAP
 
@@ -116,6 +121,7 @@ Synthetic Data · XGBoost · Imbalanced Learning · SHAP
 
 An Arabic news classifier built with natural language processing and Transformer models.
 
+<img src="https://skillicons.dev/icons?i=python,pytorch" height="28"/>
 
 Arabic NLP · CAMeLBERT · Text Classification
 
@@ -123,6 +129,7 @@ Arabic NLP · CAMeLBERT · Text Classification
 
 A computer-vision pipeline for detecting text regions in historical documents.
 
+<img src="https://skillicons.dev/icons?i=python,pytorch,opencv" height="28"/>
 
 YOLOv8 · Synthetic Data · OCR · Image Processing
 
@@ -130,6 +137,7 @@ YOLOv8 · Synthetic Data · OCR · Image Processing
 
 A web application for processing and improving the readability of Arabic document images.
 
+<img src="https://skillicons.dev/icons?i=python,flask,opencv,js" height="28"/>
 
 Flask · OpenCV · NumPy · JavaScript
 
@@ -137,6 +145,7 @@ Flask · OpenCV · NumPy · JavaScript
 
 A three-tier enterprise network lab built with Cisco Packet Tracer.
 
+<img src="https://skillicons.dev/icons?i=cisco" height="28"/>
 
 HSRP · OSPF · BGP · VLANs · VoIP
 
@@ -150,7 +159,26 @@ HSRP · OSPF · BGP · VLANs · VoIP
 ## Tech Stack
 
 <div align="center">
-  <img src="./assets/tech-stack-board.svg" alt="Technology Stack" width="100%" />
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,cs,cpp,js,html,css" />
+
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=django,flask,postgres,mysql" />
+
+
+**AI & Computer Vision**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,visualstudio" />
+
 </div>
 
 ---
